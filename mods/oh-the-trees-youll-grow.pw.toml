@@ -1,0 +1,13 @@
+name = "Oh The Trees You'll Grow"
+filename = "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2722116e140607d4f44279c84c13987e96f2bd90"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7864151
+project-id = 962544
