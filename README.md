@@ -18,7 +18,7 @@ UI ma pradawne, ale musicie niedźwiedź (`bear`) ze mną. Zaufajcie mi, warto X
 
 ### ⚠️UWAGA!⚠️ Poniższa sekcja dotyczy TYLKO i wyłącznie developmentu paczki. Aby pobrać paczkę sprawdź zakładkę [Releases](https://github.com/def750/zuz/releases) po prawej.
 
-1. Zainstaluj [Prism Launchera](https://prismlauncher.org/).
+1. Zainstaluj [Prism Launchera](https://prismlauncher.org/). Czy cokolwiek tam chcesz.
 2. Pobierz paczkę z repo i zaimportuj / wrzuć mody oraz configi do instancji.
 3. Upewnij się, że wszystko z `KubeJS` siedzi na swoim miejscu, bo inaczej będzie klasyczne "czemu to nie działa".
 
