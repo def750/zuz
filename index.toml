@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
@@ -377,11 +377,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "49185aecb9ea9176fb371ff175e7c052970855b62387fe766c252636c3989cbf"
-metafile = true
-
-[[files]]
-file = "mods/farsight.pw.toml"
-hash = "6d18b73eb0fc45bcddb308d2d41db38e850045b538c1c5a47cce574fb191e4b2"
 metafile = true
 
 [[files]]
@@ -880,8 +875,13 @@ hash = "a255c29cb611f60aaad313b223bc424721be5998673002da6b589b2862912621"
 metafile = true
 
 [[files]]
+file = "mods/watermedia-yt-plugin.pw.toml"
+hash = "df9f59fa60302177346251705c9361d522dd0accfcb784918a07489c3cc149d3"
+metafile = true
+
+[[files]]
 file = "mods/watermedia.pw.toml"
-hash = "7756678c5600a6d421f39ef00d4a25afd6ac6ba2d76ec9a10bd7536a8d4f8558"
+hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
 metafile = true
 
 [[files]]
