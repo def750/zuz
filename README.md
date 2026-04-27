@@ -24,11 +24,12 @@ UI ma pradawne, ale musicie niedźwiedź (`bear`) ze mną. Zaufajcie mi, warto X
 
 # TODO
 
-[] Nerf generacji dungeonów, są za częste
-[] wyłączenie destructive rzeczy z security crafta
-[] diff scaling z dungeonami i progressem w paczce
-[] journey mapa poprawa
-[] jakiś mod na versioning paczki z serwerem
-[] image on map i video on map
-[] więcej ciekawych itemów?
-[] trochę techa
+[ ] Nerf generacji dungeonów, są za częste
+[ ] BALANS ARTEFAKTÓW I APOTHEOSIS
+[ ] wyłączenie destructive rzeczy z security crafta i oguem
+[ ] diff scaling z dungeonami i progressem w paczce
+[ ] journey mapa poprawa
+[ ] jakiś mod na versioning paczki z serwerem
+[ ] image on map i video on map
+[ ] więcej ciekawych itemów?
+[ ] trochę techa
