@@ -200,6 +200,11 @@ hash = "d8457369ac51d51d18e7bed4f343de6af4c4d633d9b320a26b3d0342897b2399"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
 metafile = true
@@ -320,11 +325,6 @@ hash = "269ec2e84dda586fcc3bcf843c23357e3f9cc5bcb075fb7a04b7cbc50f5b6836"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "e9af5210faaf1fc9f65e2ae5181a8c50d40ec3caed195df3dd1f5f5a795c097f"
-metafile = true
-
-[[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "40c25efbb69e526bd84e17da231501efbdea1305adc7ab27c3601971aebb1308"
 metafile = true
@@ -382,6 +382,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "49185aecb9ea9176fb371ff175e7c052970855b62387fe766c252636c3989cbf"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "3138c13c61cca083b45ba2598c2407194ba5ea16d2a610968527eafa021c4635"
 metafile = true
 
 [[files]]
@@ -928,3 +933,11 @@ metafile = true
 file = "mods/zoomlens.pw.toml"
 hash = "3ca7cca2c29962f6698623506966fde1e4b2ea3153743edce5d2728cbd7aa2fd"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip"
+hash = "24a20634a7832d422d3cd5023be16829f26840e25c69404dd418306ea79f63f0"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.7.1.zip"
+hash = "5cbf4d99bc7ce4f0df5c15974d276e0949bf6974d48d88a77d5e307b0b9be8af"

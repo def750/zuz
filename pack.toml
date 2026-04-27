@@ -1,12 +1,12 @@
 name = "żuż"
 author = "def750"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f2a0eb27e7e0b8038a2cb5657e644f5f00a6b85edbd38b02317299632276fcef"
+hash = "3f5cf26f406268a57535bf671018a3bf6c14273ff16c1eca76e2b21597043fad"
 
 [versions]
 minecraft = "1.21.1"
