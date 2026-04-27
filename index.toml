@@ -526,12 +526,12 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-create.pw.toml"
-hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
+hash = "21a5deb5da882d9f3eb4eaf7f0cf77f52737e1e6b44d2f691bf10fda9c86d790"
 metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "e8c20c0c77e5df58d1386d8190ee16a957d78d62d361469db0b0c29458bf1e84"
+hash = "395ed890024bdb90e7c0fed1edf8b3905a367942ded954fca92384c76a7e5601"
 metafile = true
 
 [[files]]
@@ -547,6 +547,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "47f7c537463ac0934e0e53c99a09f631f6fcbceaa3ce9c8a446403d6fde3f0c1"
 metafile = true
 
 [[files]]
@@ -695,6 +700,11 @@ hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
 
 [[files]]
+file = "mods/ponder.pw.toml"
+hash = "763ca3a7d927dfd1ece4d8cc2aedce1acf29614cf7d58b77234f8c748d5f7802"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
@@ -731,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
+hash = "75ff68dd0bfb30f2ff97f170ffbb74d5b6aaa791416c4a0559d09ac8778561ba"
 metafile = true
 
 [[files]]
