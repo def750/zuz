@@ -32,4 +32,3 @@ UI ma pradawne, ale musicie niedźwiedź (`bear`) ze mną. Zaufajcie mi, warto X
 - [ ] jakiś mod na versioning paczki z serwerem
 - [ ] image on map i video on map
 - [ ] więcej ciekawych itemów?
-- [ ] trochę techa
