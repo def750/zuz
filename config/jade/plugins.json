@@ -1,7 +1,4 @@
 {
-  "apothicenchantingaddition": {
-    "flux_spawner": true
-  },
   "framedblocks": {
     "framed_item_frame": true,
     "framed_block_generic": true
@@ -59,6 +56,16 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "jadeaddons.create": {
+    "filter": true,
+    "backtank_capacity": true,
+    "goggles.requires_goggles": true,
+    "goggles": false,
+    "blaze_burner": true,
+    "exact_block": true,
+    "goggles.detailed": false,
+    "placard": true
+  },
   "apothic_spawners": {
     "spawner": true
   },
@@ -100,6 +107,12 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "jadeaddons.lootr": {
+    "info": true
   },
   "supplementaries": {
     "hat_stand": true
