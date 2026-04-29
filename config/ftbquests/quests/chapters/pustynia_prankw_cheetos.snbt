@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "pustynia_prankw_cheetos"
+	group: ""
+	id: "3A128A78F3F9BCFE"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

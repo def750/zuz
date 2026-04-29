@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "materialize_anything_aka_create"
+	group: ""
+	id: "6DD1D4DA4209F3CF"
+	order_index: 5
+	quest_links: [ ]
+	quests: [ ]
+}

@@ -789,6 +789,42 @@ file = "config/ftbquests-client.snbt"
 hash = "6359364663ea3c418cacb79500bb529d4988ce1089d6e73ed5b2eef526f2e6d1"
 
 [[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/gosy__w_mojej_gowie.snbt"
+hash = "00cf171d2cf9e59c59bbc88576bb078aa07b23a0ce9d34711783d84955d2ce4d"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/jestem_bogiem_uwiadom_to_sobie.snbt"
+hash = "0318f61edca813c79ba277c8f0ed9c3aee924d7d14297950394c6d1839c0aeac"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/materialize_anything_aka_create.snbt"
+hash = "21ef4bd5d6e7f132bf19827b303eadf93187b96e0d7f049cc8100651e7a3c03b"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/oni_tu_s.snbt"
+hash = "56386577b678ff416f9d7166f55d8b75f6bc8dd677cdae9b1d3e052be7477dbb"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/pustynia_prankw_cheetos.snbt"
+hash = "15c3eec51c76739f08b4807816f1c80f6ae631943fee5fd2159f7a8c3974d81d"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/tv_republika.snbt"
+hash = "1a249ad2d73e514873bfc1743d584c98cde95631e69be777ea6d3e791c2fa844"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "df92fd6b31e38ecbe9761f6ca2260e1b19eb9bcce38e9116565733ad47078b76"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us.snbt"
+hash = "1e35413f8615fa18224440dd9665df87d03c8bf93a7387a59d6a3e55fa4b29e3"
+
+[[files]]
 file = "config/ftbteams-server.snbt"
 hash = "2ef5e2dca3a653ced3f3981a85a32832fb3716caa5fa05e233f50ab16044a2c4"
 
@@ -818,7 +854,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "5fd298b41237a485642e60ca358928ded5fcb726a2d0865498236d526522393f"
+hash = "a2cd88ba125dcbefeb3ba4d5cfe7e36a90b43d74ab5eaf4a4461005d57ba5898"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -930,7 +966,7 @@ hash = "e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "5ae6a612978e6d4fa3ee01767cad4f43002ab8fe054472cc2803865998dfd2e6"
+hash = "30c895a030100e4d9790adf4395b4ca78d7a09c08e73845a47978f4a8cf89b94"
 
 [[files]]
 file = "config/paraglider-common.toml"
@@ -994,11 +1030,11 @@ hash = "225db0c38452e4e6351153b0c239c0deaa6661ce3fa3c58b3f599bfeb61f2d55"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin.properties"
-hash = "8542c81f2f96c16bb6ce1fb7537a7b968ad33f2383d6ab9db544b3f3b4712998"
+hash = "335493c9fd3c42125b3c70625d16ff8fd255d5ed73115e1c254f2521ff68e6a5"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "3d1ec282918b63d8996c9201cfa90859b61a301cd341b5466e1a762635ff8a4b"
+hash = "3e67c9725d88db7e874a3c4361a90342faa6d790f1cb03a62fdf9e89347f8ec6"
 
 [[files]]
 file = "config/rrls.toml"
@@ -1010,6 +1046,10 @@ hash = "801b8d3e91b375b654c54510402a9d7f3eac4c017546a660e49fd2b49c1126ab"
 
 [[files]]
 file = "config/screenshot_viewer-client-2.toml.bak"
+hash = "801b8d3e91b375b654c54510402a9d7f3eac4c017546a660e49fd2b49c1126ab"
+
+[[files]]
+file = "config/screenshot_viewer-client-3.toml.bak"
 hash = "801b8d3e91b375b654c54510402a9d7f3eac4c017546a660e49fd2b49c1126ab"
 
 [[files]]
@@ -1223,6 +1263,10 @@ hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
 [[files]]
 file = "config/zoomlens-client.toml"
 hash = "d127cd8e4b8248eb53176e697a1068b032e159a37c8a224ccdb0f58ddbfa7cd9"
+
+[[files]]
+file = "import.bat"
+hash = "c21bd407fb0730ded4ad1cc75b1efc87b4deb0e55ee5fdf48ea0c45a4d6478b2"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -2003,6 +2047,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "b78044fd79ce21750d05dc61b6aede33c4b87cdc16a26f5aff472d4f73ab623c"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "2507dd9242e994ec7a0b21255b0b51a91bf9e0e51b060defe7bf7f8fa1f04b53"
 metafile = true
 
 [[files]]
