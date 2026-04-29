@@ -7,4 +7,5 @@
 /README.md
 _.mrpack
 _.bat
-migrate.ps1
+\*.ps1
+\*.bak
