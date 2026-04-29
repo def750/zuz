@@ -5,7 +5,7 @@
 		"biomeswevegone:windswept_desert": true,
 		"biomeswevegone:rose_fields": true,
 		"biomeswevegone:red_rock_peaks": true,
-		"biomeswevegone:dead_sea": true,
+		"biomeswevegone:dead_sea": false,
 		"biomeswevegone:frosted_taiga": true,
 		"biomeswevegone:tropical_rainforest": true,
 		"biomeswevegone:lush_stacks": true,
