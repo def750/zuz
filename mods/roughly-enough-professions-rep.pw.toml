@@ -1,13 +1,13 @@
 name = "Roughly Enough Professions (REP)"
 filename = "RoughlyEnoughProfessions-neoforge-1.21.1-4.0.3.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "8affd7971905b20dbcc5c5244c9030e890de23f5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/V8XJ8f5f/versions/pqsVPf02/RoughlyEnoughProfessions-neoforge-1.21.1-4.0.3.jar"
+hash-format = "sha512"
+hash = "cb56314c06a2d3802e4b0c054d7f00171f19d6c29b09536f3b7e926e52157d63139fb41cf5e19c468ca143b34ec0c5148329800a00743c16e228619eb43575f4"
 
 [update]
-[update.curseforge]
-file-id = 5805943
-project-id = 597988
+[update.modrinth]
+mod-id = "V8XJ8f5f"
+version = "pqsVPf02"

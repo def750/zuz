@@ -3,11 +3,11 @@ filename = "Paraglider-neoforge-21.1.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "39043f24e897fade07a138bb8d60bfe08d8103b1"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/esqWA0aQ/versions/tkTruHIA/Paraglider-neoforge-21.1.5.jar"
+hash-format = "sha512"
+hash = "b2d986b5eb21b12ad59b0b4ac3f4ac00457562031064eada7870c023f22ba06b57712d67a0a11e4914ad4ebba51860ee37060b8b20baee1efa16738f97802434"
 
 [update]
-[update.curseforge]
-file-id = 7795089
-project-id = 289240
+[update.modrinth]
+mod-id = "esqWA0aQ"
+version = "tkTruHIA"
