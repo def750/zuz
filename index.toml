@@ -1549,14 +1549,6 @@ file = "kubejs/startup_scripts/main.js"
 hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
-file = "migrate.ps1"
-hash = "09958b87e5545167820e35b4301e59429f8c66fe44e8b911d79c2325d995f52b"
-
-[[files]]
-file = "modlist.html"
-hash = "11dea1776ae8a6b80c77f958f4cbe34fb3d2e4fbd5cfea544e1254cb869e605e"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
