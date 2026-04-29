@@ -1,0 +1,89 @@
+["Energy Settings"]
+	#Energy cost per tick for Tier 1 Bookshelf
+	# Default: 200
+	# Range: > 0
+	tier1EnergyCost = 200
+	#Energy cost per tick for Tier 2 Bookshelf
+	# Default: 400
+	# Range: > 0
+	tier2EnergyCost = 400
+	#Energy cost per tick for Tier 3 Bookshelf
+	# Default: 600
+	# Range: > 0
+	tier3EnergyCost = 600
+	#Energy cost per tick for Tier 4 Bookshelf
+	# Default: 800
+	# Range: > 0
+	tier4EnergyCost = 800
+
+	["Energy Settings"."Flux Enchanting Table Settings"]
+		#Energy cost per tick for the Flux Enchanting Table to stay active.
+		#通量附魔台每 tick (1/20秒) 消耗的待机能量。
+		# Default: 2000
+		# Range: > 0
+		fluxEnchanterTickCost = 2000
+		#Base energy cost per enchantment level.
+		#Example: If set to 1000, enchanting a level 50 enchant will cost 50,000 FE.
+		#通量附魔台附魔时的基础耗电量（实际耗电 = 该值 * 附魔等级）。
+		# Default: 2000
+		# Range: > 0
+		fluxEnchanterBaseCost = 2000
+		#The item required to refresh the enchantments (Registry Name).
+		#刷新附魔时消耗的物品 ID。默认：apothicenchantingaddition:compressed_solidified_flux_experience (压缩固化通量经验)。
+		fluxEnchanterRefreshItem = "apothicenchantingaddition:compressed_solidified_flux_experience"
+		#The amount of the refresh item required.
+		#每次点击刷新附魔时，需要消耗上述物品的数量。
+		# Default: 8
+		# Range: 1 ~ 64
+		fluxEnchanterRefreshCount = 8
+
+		["Energy Settings"."Flux Enchanting Table Settings"."Flux Anvil"]
+			#The base FE cost for the Flux Anvil per level.
+			#Total Cost = Operation Level * Base Cost.
+			#通量铁砧每级操作的基础 FE 耗电量（总耗电 = 操作等级 * 基础耗电）
+			# Default: 4000
+			# Range: > 1
+			fluxAnvilBaseCost = 4000
+
+		["Energy Settings"."Flux Enchanting Table Settings"."Flux Spawner"]
+			#Base energy parameter for the Flux Spawner.
+			#通量刷怪笼的基础耗电参数。
+			#每 tick 耗电公式: 基础*刷怪蛋数量 + 基础*(800/最大延迟) + 基础*刷怪数量 + 基础*回响等级*2
+			# Default: 2000
+			# Range: > 0
+			fluxSpawnerEnergyPerEgg = 2000
+			#Base count for Solidified Flux Experience drop.
+			#固化通量经验掉落基础数。
+			#Formula / 掉落公式: Base * Eggs * (1 + Echoing)
+			# Default: 4
+			# Range: > 0
+			fluxSpawnerExpBaseCount = 4
+			#Whether the Flux Spawner can use spawn eggs that are blacklisted from normal spawners.
+			#Default: true. When enabled, the Flux Spawner can still process those blacklisted spawn eggs.
+			#是否允许通量刷怪笼使用通常不可用于刷怪笼的刷怪蛋。
+			#默认值：true。开启后，通量刷怪笼仍然可以处理这些被加入黑名单的刷怪蛋。
+			fluxSpawnerEntityBlacklistOpen = true
+			#Lower bound used by Flux Spawner min delay upgrades and downgrades.
+			#Only affects this mod's own modifier behavior.
+			#通量刷怪笼 MIN_DELAY 升降级可到达的下限，仅影响本模组自己的升级逻辑。
+			# Default: 20
+			# Range: 1 ~ 200
+			fluxSpawnerMinDelayLimit = 20
+			#Lower bound used by Flux Spawner max delay upgrades and downgrades.
+			#Only affects this mod's own modifier behavior.
+			#通量刷怪笼 MAX_DELAY 升降级可到达的下限，仅影响本模组自己的升级逻辑。
+			# Default: 20
+			# Range: 1 ~ 800
+			fluxSpawnerMaxDelayLimit = 20
+			#Upper bound used by Flux Spawner spawn count upgrades.
+			#Only affects this mod's own modifier behavior.
+			#通量刷怪笼 SPAWN_COUNT 升级可到达的上限，仅影响本模组自己的升级逻辑。
+			# Default: 16
+			# Range: 1 ~ 64
+			fluxSpawnerSpawnCountLimit = 16
+			#Upper bound used by Flux Spawner echoing upgrades.
+			#Only affects this mod's own modifier behavior.
+			#通量刷怪笼 ECHOING 升级可到达的上限，仅影响本模组自己的升级逻辑。
+			# Default: 5
+			# Range: 0 ~ 16
+			fluxSpawnerEchoingLimit = 5
