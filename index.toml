@@ -913,22 +913,6 @@ file = "config/justhammers.json"
 hash = "f791c8b09647175ba0269a8cb6f11c90384f8678b4a386682c9abc208e6fa6df"
 
 [[files]]
-file = "config/konkrete/locals/de_de.local"
-hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
-
-[[files]]
-file = "config/konkrete/locals/en_us.local"
-hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
-
-[[files]]
-file = "config/konkrete/locals/pl_pl.local"
-hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
-
-[[files]]
-file = "config/konkrete/locals/pt_br.local"
-hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
-
-[[files]]
 file = "config/legendarytooltips.toml"
 hash = "3ee86b7d3db0c11d9e4288110804777e598f49a8445fa63d7fbec00f74a0f92f"
 
@@ -1142,7 +1126,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "8de06ca81c411ec0cfd9b05f5be386d7efaf560887a6124c02dcd5a03db8dcc1"
+hash = "235f8e3ecf2cd418939147fb5296c7bfd6f49d363f789f3d2798bff105be9c4e"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
