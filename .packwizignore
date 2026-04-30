@@ -9,3 +9,4 @@ _.mrpack
 _.bat
 \*.ps1
 \*.bak
+*.locals

@@ -15,7 +15,13 @@
   // -----------------------------------------------------------
   // Items here will be unusable completely
   //    Example: minecraft:diamond
-  blacklisted_items: ["examplemod:example_item"],
+  blacklisted_items: [
+    "!justhammers:(stone|iron|gold|diamond|netherite)_(reinforced_)?(impact|destructor)_hammer",
+    "!ae2:.*spatial.*",
+    "supplementaries:cannon",
+    "!supplementaries:cannon_boat_.*",
+    "!supplementaries:.*/cannon_boat_.*",
+  ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
   // Use with caution! This is a very expensive operation and can cause lag if you have a lot of items blacklisted.

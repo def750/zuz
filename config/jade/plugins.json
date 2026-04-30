@@ -120,9 +120,6 @@
   "waystones": {
     "waystone": true
   },
-  "dynamic_difficulty": {
-    "level": true
-  },
   "corpse": {
     "corpse": true
   },

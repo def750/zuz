@@ -22,3 +22,4 @@ config/ftbquests/quests/lang/recovery/*.snbt
 config/ftbquests/quests/lang/**/*.snbt_merged
 
 *.bak
+*.locals
