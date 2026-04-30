@@ -6,7 +6,7 @@ hash = "6888029a7b10204f0613dc3a2c5275d1518aa17d7c999d30473f8d4bbfccac7b"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "fe4edee1c2b40aa9a06d36a1a5b0bb5a2143165a527c7fb654bfa3da0334635e"
+hash = "db48ffa9d2a003ac9b6bc15148c19aba841d75ae5f1d08ee2150fe818ca9a13f"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -114,7 +114,7 @@ hash = "3a2bff8f95e923ca0568b5afa374a743deb5346544c7719eb6ac53c2f37d944d"
 
 [[files]]
 file = "config/apotheosis/name_generation.cfg"
-hash = "7101bca922d837271e5dca986c5f938670d2ec30ab0875651b0526175a64fda4"
+hash = "a6a2058d88ab1d29c39007dbcf8881da26973179844aa1f455e2c061c1473264"
 
 [[files]]
 file = "config/apothic_spawners.cfg"
@@ -470,7 +470,7 @@ hash = "0b05a8814f09fead55b1901b7efab7d3ab87227ea3fc6b5e65a6197261832710"
 
 [[files]]
 file = "config/biomeswevegone/world_generation.json5"
-hash = "0bcdc6c133277a53359d255fe3eeed3b4d1b163b446c1bd7ef514a2637b001d6"
+hash = "2844e100dc3c9104b6105b9d6b10f8c7d94c7cf280dc1794f0f9388a44481c86"
 
 [[files]]
 file = "config/boatiview-client.toml"
@@ -478,7 +478,7 @@ hash = "0f77a8f879355f4115a894acb56161a164d826ce8af335f0522cdd0f8d0d9a52"
 
 [[files]]
 file = "config/bridgingmod.json"
-hash = "7441a2bea4a4cb96119fe5270d522d41bdc6583121259025c7b019d865b82563"
+hash = "2f3b312ba9110f5af338d362b35f09c442c01cc4cb9187da9626de7cc10e2d01"
 
 [[files]]
 file = "config/buildinggadgets2-common.toml"
@@ -658,7 +658,7 @@ hash = "ab14b9bbcbf4911f3dc0d8ee36ce2509c94fe2ae2ab327ea39f3759a5a69b83d"
 
 [[files]]
 file = "config/cristellib/biomeswevegone/structure_toggle_config.json5"
-hash = "bffc334fb3439c7c6a901e2bd95cc4f4fe2614dffe2acd93fe311aad3153521e"
+hash = "cbd58e410a2126df52e7e08529d54bedeb40bb5465b5cb1b81c64f689e922b16"
 
 [[files]]
 file = "config/cristellib/built_in_packs.json5"
@@ -750,7 +750,7 @@ hash = "35a9853d167a32e93bbb829c1054454b065bf985c7148bb85e61ea065c8b42f7"
 
 [[files]]
 file = "config/dummmmmmy-client.toml"
-hash = "dfec23a0192a8fe5505fc64fb9ed121af5a0ee994bb9ad8a1f2c8d883fc9ecbd"
+hash = "4b44fed31e6e1a377159da559f1c247fffdef92ca79fc137244f31f2e6a4dd5b"
 
 [[files]]
 file = "config/dummmmmmy-common.toml"
@@ -874,11 +874,11 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "cceb6170b0901d00211942db7970c9d735f7c10b04a9fd9145aba82b94364fe7"
+hash = "454353e272258834b7ccf1472f5b4e7acc915dd6ced1b520d7267bd50b9cdb3c"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "691fb131811bb9f5d8c36a42a7e5e5e1cc63410be4dac14de273fcfd42f0981b"
+hash = "554edb2ce54ce7f21ebede3d968d04551fc64fe1d4de5bdc30876dd5ebdf96b6"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -910,7 +910,27 @@ hash = "914e767b44a8e0504767fa60bd1e3779259f6363afb299ed4282b9001f7db61b"
 
 [[files]]
 file = "config/justhammers.json"
-hash = "f791c8b09647175ba0269a8cb6f11c90384f8678b4a386682c9abc208e6fa6df"
+hash = "8beb976cccdb18afdf50b327cbfc109aef189a17be5b9989310353d4573edd57"
+
+[[files]]
+file = "config/justzoom/config.txt"
+hash = "d0dcbc7c9c28a398ad2b81c1f6779f34beffbf45560c8c02c063077ab32ded45"
+
+[[files]]
+file = "config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
 file = "config/legendarytooltips.toml"
@@ -994,7 +1014,7 @@ hash = "e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "98753c1e3c75f4445144734576ab4cfc4640ec71905691c29e190d45565c29df"
+hash = "4f7775b8a173d7ecccd540f0267e5fca08e25768099952289182840e3337beac"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -1026,7 +1046,7 @@ hash = "01d1370950239d1a78d2b166652e0ad7dce25d9e89e46565edc3021bec71e206"
 
 [[files]]
 file = "config/resourceful-config-web.json"
-hash = "f6126fdd20d33d7e4836cceaec36809d84328e94a25ee9dad7b1467a5788ba1e"
+hash = "59b733cd698dfe70edf854da3637ccd49dbea386a6c1217c2cc9ecbca9c2740e"
 
 [[files]]
 file = "config/roughlyenoughitems/collapsible.json5"
@@ -1034,7 +1054,7 @@ hash = "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "ea28fefb028e1b74668dbde2a9826e635170b49bbc0fc3b957cb825deb7165fd"
+hash = "2ba6ca61dcc6e9df7fc827cecc6b85b3422a25de2ddc2ae04d5276790171cb2e"
 
 [[files]]
 file = "config/roughlyenoughitems/favorites.json5"
@@ -1046,11 +1066,11 @@ hash = "225db0c38452e4e6351153b0c239c0deaa6661ce3fa3c58b3f599bfeb61f2d55"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin.properties"
-hash = "f7488f54f6e9e415b5021e1181d04415f0de7f98ca9e1b965c9b77ea86aaedd8"
+hash = "b55bd2732ada55e99eeb8571ec13bad09c563efd4cf354f4dfc8d3ce758c4ad0"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "4015ddcaf397822fe5a9a1df2e6a8eb39d88135a3d055bddb9b126695065e463"
+hash = "36a37bd4f783b57de115b2fadcc8c4e341514ff5181efd203a873110430b51d8"
 
 [[files]]
 file = "config/rrls.toml"
@@ -1086,7 +1106,7 @@ hash = "45162f45aa2db525a0edc483959f35b6d958ba2e54066a4f87e7f3c3f0f99166"
 
 [[files]]
 file = "config/sodium-fingerprint.json"
-hash = "0e1e918a7dea952a2ca4fb74889db8fae22339e1bea7744a12791a323d20f29f"
+hash = "f855995453dc8164e909efa885bb133ab63fbe87c1108a2c2ff6ecc75b95c7e9"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -1106,7 +1126,7 @@ hash = "390cb983090cdc5ba9013c0551fcde8ecf579040f970e33de5ecfc500841cb7f"
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
-hash = "34215ea44a93898732617f968b96d79ce5169d9f08b79334247972bad1db3d9a"
+hash = "dea5ba0fe45846e367b8cf77277bb4484089da699c43759a90d37486263a30bc"
 
 [[files]]
 file = "config/sophisticatedcore-client.toml"
@@ -1114,7 +1134,7 @@ hash = "12f65a872b73c931b0a192d7e95c7d89f7ef7f1fd33f3ee7ff6bbda12fb8845f"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
-hash = "6928810eacfc20c8568759fc8c142df5f643e790f5c97c082719d65656274ff8"
+hash = "319ed43d5c1a12f321afbc0462f39f4c107ce46b82016db4b180d30ce6fcb071"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -1250,7 +1270,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "f7864c7c27c378cafa13b4dfe0008e01d3b6aae442d4bf28cd851635b5e7a969"
+hash = "483fe19c8658328f63b627349c283b7dcb1af9abe4eacf140d4cf67870a6eb4e"
 
 [[files]]
 file = "config/yacl.json5"
