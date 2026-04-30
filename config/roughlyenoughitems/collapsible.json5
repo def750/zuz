@@ -1,4 +1,47 @@
 {
 	"disabledGroups": [],
-	"customGroups": []
+	"customGroups": [
+		{
+			"id": "custom:2eab9b71-7af1-49a7-98f8-626032ac962b",
+			"name": "sdfdsfsd",
+			"stacks": [
+				"{count:1,id:\"minecraft:kelp\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:moss_carpet\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:pink_petals\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:moss_block\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:hanging_roots\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:big_dripleaf\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:small_dripleaf\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:bamboo\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:oak_slab\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:spruce_slab\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:birch_slab\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:jungle_slab\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:torch\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:end_rod\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:chorus_plant\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:chorus_flower\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:purpur_block\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:purpur_pillar\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:purpur_stairs\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:spawner\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:chest\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:crafting_table\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:farmland\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:furnace\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:infested_chiseled_stone_bricks\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:infested_deepslate\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:stone_bricks\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:mossy_stone_bricks\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:cracked_stone_bricks\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:chiseled_stone_bricks\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:packed_mud\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:mud_bricks\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:deepslate_bricks\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:cracked_deepslate_bricks\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:deepslate_tiles\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:cracked_deepslate_tiles\",type:\"minecraft:item\"}"
+			]
+		}
+	]
 }

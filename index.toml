@@ -658,7 +658,7 @@ hash = "ab14b9bbcbf4911f3dc0d8ee36ce2509c94fe2ae2ab327ea39f3759a5a69b83d"
 
 [[files]]
 file = "config/cristellib/biomeswevegone/structure_toggle_config.json5"
-hash = "cbd58e410a2126df52e7e08529d54bedeb40bb5465b5cb1b81c64f689e922b16"
+hash = "bffc334fb3439c7c6a901e2bd95cc4f4fe2614dffe2acd93fe311aad3153521e"
 
 [[files]]
 file = "config/cristellib/built_in_packs.json5"
@@ -841,10 +841,6 @@ file = "config/ftbqopt.snbt"
 hash = "e9b2aac274fca344993154713919afc40de44be68c2978e84efa6a74aa915a29"
 
 [[files]]
-file = "config/ftbquests-client.snbt"
-hash = "6359364663ea3c418cacb79500bb529d4988ce1089d6e73ed5b2eef526f2e6d1"
-
-[[files]]
 file = "config/ftbteams-server.snbt"
 hash = "2ef5e2dca3a653ced3f3981a85a32832fb3716caa5fa05e233f50ab16044a2c4"
 
@@ -874,7 +870,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "454353e272258834b7ccf1472f5b4e7acc915dd6ced1b520d7267bd50b9cdb3c"
+hash = "78c7ca25a79349a23a64320f95f92ae4ad3c73c3afb2d534746199e86ec2e920"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -1014,7 +1010,7 @@ hash = "e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "4f7775b8a173d7ecccd540f0267e5fca08e25768099952289182840e3337beac"
+hash = "a8f8c68b9e2a4af8c377c5fa2f02ae59aa6514201d993ff9b82f815f3b8e8835"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -1050,11 +1046,11 @@ hash = "59b733cd698dfe70edf854da3637ccd49dbea386a6c1217c2cc9ecbca9c2740e"
 
 [[files]]
 file = "config/roughlyenoughitems/collapsible.json5"
-hash = "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919"
+hash = "e72d79c5e0a4b0a1ee40b820e5fc97582fd3ae218f23fd692840e51e90492023"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "2ba6ca61dcc6e9df7fc827cecc6b85b3422a25de2ddc2ae04d5276790171cb2e"
+hash = "654d700a8a4b5b40a25947f06c03b8aa0f50ff0aaee11003d5d9b5cdb36675b1"
 
 [[files]]
 file = "config/roughlyenoughitems/favorites.json5"
@@ -1066,11 +1062,11 @@ hash = "225db0c38452e4e6351153b0c239c0deaa6661ce3fa3c58b3f599bfeb61f2d55"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin.properties"
-hash = "b55bd2732ada55e99eeb8571ec13bad09c563efd4cf354f4dfc8d3ce758c4ad0"
+hash = "64f23698a095e1041288cccd0b94fcfc2f7029ae3339d2644559ac78f3ac5593"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "36a37bd4f783b57de115b2fadcc8c4e341514ff5181efd203a873110430b51d8"
+hash = "d5c9ca1c30d41d268d4b9379613e0d4301ca3538bbc4d609965d953499d7320f"
 
 [[files]]
 file = "config/rrls.toml"
@@ -1078,6 +1074,22 @@ hash = "50aa30a1d8c6d5c07552b639a63169d7dc34936d84bd8b97af80e0083e851b9d"
 
 [[files]]
 file = "config/screenshot_viewer-client-1.toml.bak"
+hash = "801b8d3e91b375b654c54510402a9d7f3eac4c017546a660e49fd2b49c1126ab"
+
+[[files]]
+file = "config/screenshot_viewer-client-2.toml.bak"
+hash = "801b8d3e91b375b654c54510402a9d7f3eac4c017546a660e49fd2b49c1126ab"
+
+[[files]]
+file = "config/screenshot_viewer-client-3.toml.bak"
+hash = "801b8d3e91b375b654c54510402a9d7f3eac4c017546a660e49fd2b49c1126ab"
+
+[[files]]
+file = "config/screenshot_viewer-client-4.toml.bak"
+hash = "801b8d3e91b375b654c54510402a9d7f3eac4c017546a660e49fd2b49c1126ab"
+
+[[files]]
+file = "config/screenshot_viewer-client-5.toml.bak"
 hash = "801b8d3e91b375b654c54510402a9d7f3eac4c017546a660e49fd2b49c1126ab"
 
 [[files]]
@@ -1118,7 +1130,7 @@ hash = "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96"
 
 [[files]]
 file = "config/sodiumextras-client.toml"
-hash = "eaa1dd286378c78d4e62bdb127ce50a6668a73f79161fd3aa95e40c787e29c8a"
+hash = "ddd8950d7d4c21a8bb2761a196ffb397a2d3b65fe293aa0938b7a381b196cdee"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
@@ -1134,7 +1146,7 @@ hash = "12f65a872b73c931b0a192d7e95c7d89f7ef7f1fd33f3ee7ff6bbda12fb8845f"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
-hash = "319ed43d5c1a12f321afbc0462f39f4c107ce46b82016db4b180d30ce6fcb071"
+hash = "bd58afad70cce348c40a649af77097301a29d0eb68dfae0df9eed1eae1be3578"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -1173,6 +1185,10 @@ file = "config/sounds/world.json"
 hash = "f8f1818ba5c8887bd01973839f9a413c1232cc1a1c4be7e5c72250ff2af042e7"
 
 [[files]]
+file = "config/spark/activity.json"
+hash = "9b2834d5ffd16ac9dacf8b9698341d0a360ce3d61ed5277a9a2a962f2f01efe9"
+
+[[files]]
 file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
@@ -1190,7 +1206,7 @@ hash = "bf2b1a9bafdf64e51819968431d0472e47a5ca311c528a526bf76b0b63fb6e10"
 
 [[files]]
 file = "config/supplementaries-common.toml"
-hash = "76509eed51fb4284bf2d7a76c6c54bd33467d3bb416c907cedbc5a89186fa567"
+hash = "738d28de736683cb6af49d29b22e6f1944955e359bc35ff8125ea3896ef9177a"
 
 [[files]]
 file = "config/tectonic.json"
@@ -1198,7 +1214,7 @@ hash = "fe51e529faafe17609b060f25d2cd87c0db5571c98e306a09f9335d4b54546fa"
 
 [[files]]
 file = "config/terrablender.toml"
-hash = "cff6a9a0d415b19b9852844c0ad5bb2b1cfdb9fce12e729e7228a6521fc95927"
+hash = "8e7ac8211ff8ea67784313dd678097848ebd5a40b55ed11a4de48739bbf89a29"
 
 [[files]]
 file = "config/toastcontrol-client.toml"
@@ -1309,8 +1325,16 @@ file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
+file = "kubejs/client_scripts/groupers.js"
+hash = "9a3bfa313ebeb8bf2b82dd4d5c5a294e255994e8d676f07a3a14068808ec637e"
+
+[[files]]
 file = "kubejs/client_scripts/main.js"
-hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+hash = "291366e9d3a421cd2dcddbc88e40c97a40ab70c19a3cd6a6cc46ee8a0545f571"
+
+[[files]]
+file = "kubejs/client_scripts/obliterate.js"
+hash = "52bdb926a9a4d2d849fb1a8784d9f4ec376fcb52874b5ffc6b51a994a9b9a921"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -1322,11 +1346,19 @@ hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
 file = "kubejs/config/web_server.json"
-hash = "a03950204ebcb393c567e6c4d91e7a25394b50a9d7bb4a09fe56dec6f658e832"
+hash = "ab8c20806ac08195383894527e861397904df0461597aa759ccb497524b0c170"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
 hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
+
+[[files]]
+file = "kubejs/server_scripts/obliterate.js"
+hash = "41c295e6afa632912baabb94819811ba67bd4c2bc23f2f03fe09597ac0040c4f"
+
+[[files]]
+file = "kubejs/startup_scripts/globals.js"
+hash = "4102748389935a1ab8a30b4fb47afd4a17f7d59286d84357066520f749b8d14c"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -1335,6 +1367,14 @@ hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 [[files]]
 file = "migrate.ps1"
 hash = "09958b87e5545167820e35b4301e59429f8c66fe44e8b911d79c2325d995f52b"
+
+[[files]]
+file = "minecraft/kubejs/client_scripts/groupers.js"
+hash = "4da567a34ee7f672c8e28034dc6672e7888c93963d410c52754f2fea24164bdf"
+
+[[files]]
+file = "minecraft/kubejs/server_scripts/obliterate.js"
+hash = "07894c74323ed6bae94bae18eea0afdea8e720d597953f3189328fe0e39ab918"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1932,11 +1972,6 @@ hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
 
 [[files]]
-file = "mods/item-obliterator.pw.toml"
-hash = "139c5ee36d4528998d33d47ec4c5538f9ce7043b2197879db5f8945e8fe991bb"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
 metafile = true
@@ -2237,11 +2272,6 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
-file = "mods/security-craft.pw.toml"
-hash = "143324f103b28e6f799e808ce1ff20eab1aea7485be406c3ff95d7f007920e84"
-metafile = true
-
-[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "0bef7b3dd4758a661d3e6827bd390c12ff8a3ede4a66bb2e01e3c760f02bd509"
 metafile = true
@@ -2344,11 +2374,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]

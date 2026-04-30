@@ -471,6 +471,31 @@
 	altimeter = true
 	confetti_popper = true
 
+	[tools.bomb]
+		enabled = false
+		#Bomb explosion radius (damage depends on this)
+		# Default: 2.0
+		# Range: 0.1 ~ 10.0
+		explosion_radius = 2.0
+		#Do bombs break blocks like tnt?
+		#Allowed Values: ALL, WEAK, NONE
+		break_blocks = "WEAK"
+		#Put here any number other than 0 to have your bombs explode after a certain amount of ticks instead than on contact
+		# Default: 0
+		# Range: 0 ~ 100000
+		bomb_fuse = 0
+		#Enable bomb item cooldown
+		cooldown = true
+
+		[tools.bomb.blue_bomb]
+			#Bomb explosion radius (damage depends on this)
+			# Default: 5.15
+			# Range: 0.1 ~ 10.0
+			explosion_radius = 5.15
+			#Do bombs break blocks like tnt?
+			#Allowed Values: ALL, WEAK, NONE
+			break_blocks = "WEAK"
+
 	[tools.quiver]
 		enabled = true
 		#Allows using a quiver without being slowed down
@@ -553,31 +578,6 @@
 		# Default: 64
 		# Range: 0 ~ 500
 		bound_distance = 64
-
-	[tools.bomb]
-		enabled = true
-		#Bomb explosion radius (damage depends on this)
-		# Default: 2.0
-		# Range: 0.1 ~ 10.0
-		explosion_radius = 2.0
-		#Do bombs break blocks like tnt?
-		#Allowed Values: ALL, WEAK, NONE
-		break_blocks = "WEAK"
-		#Put here any number other than 0 to have your bombs explode after a certain amount of ticks instead than on contact
-		# Default: 0
-		# Range: 0 ~ 100000
-		bomb_fuse = 0
-		#Enable bomb item cooldown
-		cooldown = true
-
-		[tools.bomb.blue_bomb]
-			#Bomb explosion radius (damage depends on this)
-			# Default: 5.15
-			# Range: 0.1 ~ 10.0
-			explosion_radius = 5.15
-			#Do bombs break blocks like tnt?
-			#Allowed Values: ALL, WEAK, NONE
-			break_blocks = "WEAK"
 
 	[tools.slingshot]
 		enabled = true

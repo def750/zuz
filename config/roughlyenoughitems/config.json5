@@ -3,7 +3,7 @@
 		"favorites": [],
 		"hiddenFavorites": [],
 		"displayHistory": [],
-		"cheating": false,
+		"cheating": true,
 		"favoritesEnabled": true,
 		"reduceMotion": false,
 		"keyBindings": {
@@ -54,9 +54,9 @@
 		"cheatingStyle": "GRAB"
 	},
 	"appearance": {
-		"recipeScreenType": "UNSET",
+		"recipeScreenType": "ORIGINAL",
 		// Declares the appearance of REI windows.
-		"theme": "LIGHT",
+		"theme": "DARK",
 		"layout": {
 			// Declares the position of the search field.
 			"searchFieldLocation": "CENTER",
@@ -161,7 +161,41 @@
 			"cachingDisplayLookup": true,
 			"categorySettings": {
 				"filteringQuickCraftCategories": { },
-				"categoryOrdering": [],
+				"categoryOrdering": [
+					"minecraft:plugins/crafting",
+					"minecraft:plugins/smelting",
+					"minecraft:plugins/smoking",
+					"minecraft:plugins/blasting",
+					"minecraft:plugins/campfire",
+					"minecraft:plugins/stone_cutting",
+					"minecraft:plugins/fuel",
+					"minecraft:plugins/brewing",
+					"minecraft:plugins/composting",
+					"minecraft:plugins/stripping",
+					"minecraft:plugins/smithing",
+					"minecraft:plugins/anvil",
+					"minecraft:plugins/beacon_base",
+					"minecraft:plugins/beacon_payment",
+					"minecraft:plugins/tilling",
+					"minecraft:plugins/pathing",
+					"minecraft:plugins/waxing",
+					"minecraft:plugins/wax_scraping",
+					"minecraft:plugins/oxidizing",
+					"minecraft:plugins/oxidation_scraping",
+					"framedblocks:framing_saw",
+					"advanced_ae:rei_reaction_chamber",
+					"ae2:item_transformation",
+					"ae2:condenser",
+					"ae2:ae2.inscriber",
+					"ae2:attunement",
+					"ae2:charger",
+					"ae2:ae2.entropy_manipulator",
+					"golemoverhaul:golem_construction",
+					"chipped:workbench",
+					"roughlyenoughprofessions:plugins/profession",
+					"roughlyenoughitems:plugins/information",
+					"minecraft:plugins/tag"
+				],
 				"hiddenCategories": []
 			}
 		},
