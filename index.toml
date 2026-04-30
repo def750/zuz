@@ -478,7 +478,7 @@ hash = "0f77a8f879355f4115a894acb56161a164d826ce8af335f0522cdd0f8d0d9a52"
 
 [[files]]
 file = "config/bridgingmod.json"
-hash = "2f3b312ba9110f5af338d362b35f09c442c01cc4cb9187da9626de7cc10e2d01"
+hash = "7441a2bea4a4cb96119fe5270d522d41bdc6583121259025c7b019d865b82563"
 
 [[files]]
 file = "config/buildinggadgets2-common.toml"
@@ -486,7 +486,7 @@ hash = "596a9276f68bd49ad010420cbcad2c84d093553478fd1f91c3d66579f2416776"
 
 [[files]]
 file = "config/chat_heads.json5"
-hash = "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503"
+hash = "560273b268a8ca3c62ad9efab5c469da8c73350cf2f52fcb2f25f0c4391289ec"
 
 [[files]]
 file = "config/chatanimation.json"
@@ -654,7 +654,7 @@ hash = "ab14b9bbcbf4911f3dc0d8ee36ce2509c94fe2ae2ab327ea39f3759a5a69b83d"
 
 [[files]]
 file = "config/cristellib/biomeswevegone/structure_toggle_config.json5"
-hash = "cbd58e410a2126df52e7e08529d54bedeb40bb5465b5cb1b81c64f689e922b16"
+hash = "894ac2149dc1c54fef2b8d462bf3f9ee81dbdd715215f6f0d229fbf4a09bca37"
 
 [[files]]
 file = "config/cristellib/built_in_packs.json5"
@@ -755,14 +755,6 @@ hash = "9507a75143689ab6f0da55929059652c6cab8dcd7d5e5b14697836232274e6d3"
 [[files]]
 file = "config/durabilitytooltip-common.toml"
 hash = "2f33433f38df628bf545b76e0ae5babe3efe1ad08dae14b6077a44c768072d7f"
-
-[[files]]
-file = "config/dynamic_difficulty-client.toml"
-hash = "4c4ca3789857f85e7694a18b45a566af54e9e6051ecbd690d4e6beb6c78abb12"
-
-[[files]]
-file = "config/dynamic_difficulty-common.toml"
-hash = "6c4791eaafd917410fde8812093272ddcdac3d181a7b341b6dfbc0f1f5cecd0a"
 
 [[files]]
 file = "config/dynamic_fps.json"
@@ -882,7 +874,7 @@ hash = "9d226d6540dcae361411c166b9dd6175a3a221d26c36c06a3101939794f55005"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "554edb2ce54ce7f21ebede3d968d04551fc64fe1d4de5bdc30876dd5ebdf96b6"
+hash = "1fdef0fcb215fc7133651e49daf629a28c8e3f89b7827f1c1b83b0697a725ade"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -914,7 +906,7 @@ hash = "914e767b44a8e0504767fa60bd1e3779259f6363afb299ed4282b9001f7db61b"
 
 [[files]]
 file = "config/justhammers.json"
-hash = "8beb976cccdb18afdf50b327cbfc109aef189a17be5b9989310353d4573edd57"
+hash = "f791c8b09647175ba0269a8cb6f11c90384f8678b4a386682c9abc208e6fa6df"
 
 [[files]]
 file = "config/legendarytooltips.toml"
@@ -999,18 +991,6 @@ hash = "e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950"
 [[files]]
 file = "config/packetfixer.properties"
 hash = "0197756324b98efb4dc2cddf2d734ac3b9be57015e78760d11cc46795257ce90"
-
-[[files]]
-file = "config/paraglider-common.toml"
-hash = "e93dd2a534776ec2c7dbcadc1d865441bb72d68cc2d90cc672263f1b2d12a26b"
-
-[[files]]
-file = "config/paraglider-player-states.toml"
-hash = "5b5d04980f4459e32ff654d8da2a692533ec5dea34b5d412bd7bc82dac49dfb0"
-
-[[files]]
-file = "config/paraglider-server.toml"
-hash = "6e846f966bb462a682cfbd90804fa5067813db760a000d48214ae56e9a2557e4"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -1277,10 +1257,6 @@ file = "config/zeta-common.toml"
 hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
 
 [[files]]
-file = "config/zoomlens-client.toml"
-hash = "d127cd8e4b8248eb53176e697a1068b032e159a37c8a224ccdb0f58ddbfa7cd9"
-
-[[files]]
 file = "configureddefaults/README.md"
 hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
@@ -1472,6 +1448,11 @@ hash = "9121b274bd87552ae976983d9bdd56061274c126a4a1b7b2e13605b1a1ec0599"
 metafile = true
 
 [[files]]
+file = "mods/beautified-chat-server.pw.toml"
+hash = "067c3905b3b6bd4ef5f33b9d79203718c63a5ba4fa1fe2253fa3aa5ca00e0c73"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
@@ -1549,6 +1530,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "a567cd22b6f35cb5f71b4aa394c01d341ce01274c9b6256cbcc6f48a450a2ba3"
 metafile = true
 
 [[files]]
@@ -1757,11 +1743,6 @@ hash = "4f70e3a81a737468bc9de58f12ec91b31d9062395a83ec8e5d9fd9c1ddeeb306"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-difficulty-mod.pw.toml"
-hash = "39d08b330d0447d3d3749954c3f58ad7d15e27a038d1bbea09b526634a4c49de"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
@@ -1854,16 +1835,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "54b6ce5c7ccf54db4cf8888e1c7e56b2d840cddc0e3e3fd15869a03d5c76c2ef"
-metafile = true
-
-[[files]]
-file = "mods/ftb-quests-forge.pw.toml"
-hash = "7557cd72044ad985b08e452dba7461feb219469e2fea97ea32c6ecd8458b2fd8"
-metafile = true
-
-[[files]]
-file = "mods/ftb-quests-optimizer.pw.toml"
-hash = "130923cea74d38f39b996ff5884dbfe91dde3f46f2efe330af2ae54d731f6481"
 metafile = true
 
 [[files]]
@@ -1967,6 +1938,16 @@ hash = "af4465a52c59ed914f3b924bedb844cee7867b2682a356592aafb7246fd33427"
 metafile = true
 
 [[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "f565820169e3cd71f18fd0b18eab2405bc400668813d04f3f3eb75b6c8924bcc"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
@@ -2009,6 +1990,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "114b4f1097f17b916cc5df3334aa57e34c6f4a108b87cb911e29134dd5ff980d"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
 metafile = true
 
 [[files]]
@@ -2059,11 +2045,6 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "c05fa3fa9bc5700104d928b616b15e70d441085dd060c6501122747dc3805de1"
-metafile = true
-
-[[files]]
-file = "mods/more-quest-types.pw.toml"
-hash = "34c36722ff14d28dface5edc6389d15f08ba1bbe7f9c3514bb454d651c6f3b06"
 metafile = true
 
 [[files]]
@@ -2139,11 +2120,6 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
-metafile = true
-
-[[files]]
-file = "mods/paragliders.pw.toml"
-hash = "c323e7a690fc87db51353a7106e275d89e3947826070c0b02c3a4717361dde63"
 metafile = true
 
 [[files]]
@@ -2464,11 +2440,6 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
-metafile = true
-
-[[files]]
-file = "mods/zoomlens.pw.toml"
-hash = "3ca7cca2c29962f6698623506966fde1e4b2ea3153743edce5d2728cbd7aa2fd"
 metafile = true
 
 [[files]]
