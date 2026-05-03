@@ -1,0 +1,12 @@
+{
+  "id": "facades",
+  "name": {
+    "translate": "collapsible_groups.group.facades",
+    "fallback": "FACADES"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "stack": "{\"id\":\"ae2:facade\"}"
+  }
+}

@@ -478,7 +478,7 @@ hash = "0f77a8f879355f4115a894acb56161a164d826ce8af335f0522cdd0f8d0d9a52"
 
 [[files]]
 file = "config/bridgingmod.json"
-hash = "2f3b312ba9110f5af338d362b35f09c442c01cc4cb9187da9626de7cc10e2d01"
+hash = "958ce93fe65ec89b4d4d89c629212af067227326d4005906683a3f34668fb568"
 
 [[files]]
 file = "config/buildinggadgets2-common.toml"
@@ -495,6 +495,22 @@ hash = "de5bb1061dcd48c3378f6849658940a465c3e094e5d6c342c5f73ea984da2a8b"
 [[files]]
 file = "config/chloride-client.json"
 hash = "ed8c75900f5811e00e50f28f736fbe298e1779831fe068c4ca1e6f6dacd8873f"
+
+[[files]]
+file = "config/collapsiblegroups/collapsiblegroups.toml"
+hash = "418c8e56d695c98fb37f9f8ab3b37e4e41c8ff1810cd058d931b2cd4b2464b3e"
+
+[[files]]
+file = "config/collapsiblegroups/expand_state.json"
+hash = "9bfcde35a2099972511f39493135c6c16cd119e3f5bab4927d9c70b0a7715e9a"
+
+[[files]]
+file = "config/collapsiblegroups/groups/facades.json"
+hash = "a785799216b78a0714029ae388d3f067bfccd350ab4083a7c9021b1d02200c6a"
+
+[[files]]
+file = "config/collapsiblegroups/ui_state.json"
+hash = "fa813c6bed5975591f4403871842e0f762df410527404120ba41bdeb58b4f6d4"
 
 [[files]]
 file = "config/collective.json5"
@@ -765,6 +781,10 @@ file = "config/dynamic_fps.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/emojiful-client.toml"
+hash = "019ca3be73c3018e73208241931865fe0bbe12bc4883c965c53cc615c0a5893c"
+
+[[files]]
 file = "config/enchdesc.json"
 hash = "7116b95a9b6797af8db84e410a2ca2fdf6f813461e37cd04bff5af933f31567b"
 
@@ -870,7 +890,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "78c7ca25a79349a23a64320f95f92ae4ad3c73c3afb2d534746199e86ec2e920"
+hash = "9ccfcdf0950c03b7f6f6b1fa01ceaf3694ead24118d244287787cfa40de5fc1c"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -895,6 +915,54 @@ hash = "61c1050f9e6f923b62866d2050045761c3dca6f69c64ddf3e83f9216261fb14e"
 [[files]]
 file = "config/jade/sort-order.json"
 hash = "db31ccf4e9a50e449fcb9e8821a1f7e65f85208e10b2025cd0e14b520572eee7"
+
+[[files]]
+file = "config/jeed-client.toml"
+hash = "80f13c2608d62c6906c2689dfc6cfb7d353ee88cd4eac11f4fac1c29e7d09539"
+
+[[files]]
+file = "config/jei-server.toml"
+hash = "702acd04d99445bce659d04fcc488e1a98c8a803983c31ae262b0f3a47fdc8d3"
+
+[[files]]
+file = "config/jei/blacklist.json"
+hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+hash = "efeca1e45644e7f384feacff0a914e96265cef11a87b720b9bd92997087d0ba4"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+hash = "01d37f03a3ce57094fbd6ce859bd44959aaf948c4021b51f99c85058b917742f"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "f6841387ba118885299e6fe6574daaa62ad5adcf4e73f851ec2e9f8977ea066d"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "960b16c7af6d62bbe7b58fb52216a8a15771bddecbeefab49a8614b7ca86dcbd"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "f2b402907e8d895959dd63b26f7bf5ba98853f956779d755efac6b44fb033d46"
+
+[[files]]
+file = "config/jei/world/local/zdj_cia_st_p_archaica/lookupHistory.json"
+hash = "d98d7b1f5295cf00c940bea1b816dc8bf458d154f1c611d4650cfc56effafafb"
+
+[[files]]
+file = "config/jeresources-common.toml"
+hash = "b8e340097e9b479a5d66593f01c1c84a8a8fdc1ed960eccb11676ee7612537e2"
 
 [[files]]
 file = "config/jmi-client.toml"
@@ -1010,11 +1078,219 @@ hash = "e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "a8f8c68b9e2a4af8c377c5fa2f02ae59aa6514201d993ff9b82f815f3b8e8835"
+hash = "86ce6a33cd29bb2fafcc248b4f031e4c6fed9b222502364eb832a98cc2ce9410"
 
 [[files]]
 file = "config/patchouli-client.toml"
 hash = "d9a6d7cadb6d473cf087602d9866840d2bb7f2c16915267eb3f6fbf68d5d774d"
+
+[[files]]
+file = "config/paxi-neoforge-1_21.toml"
+hash = "1c060e845e29386597054765729f34b0933fa3d1ff75cdd686a4e925cfe973d8"
+
+[[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/bruger.json"
+hash = "6669f1e925abbe7938a2d8d9ce51794b97ac248e9b391b5b58db1b5ba9922bf0"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/curseofra.json"
+hash = "ac08cbd7f31d57ce55b96aa5f80b2e00cbd78343d38303cc3edaa3e601cfb864"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/dobra.json"
+hash = "86a5579e12f8b485fdbbb95dc9eb1a77c9c4723fb09cab9f808e480a7fee7717"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/face_archaicsus.json"
+hash = "5ac948da3758ef7afe744c97ea9189d67b9a64bca4cfaa6cb5a3102c81b84c85"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/face_chazoofjudgement.json"
+hash = "ac8b3e3097245808f8356a543806928ea60e3dd1ed4c717a80202dba314a86ab"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/face_mocnasmakuwa.json"
+hash = "f9a4cbfd10f110ee38fbd1d39a6f35ad3f02192b65ec9ab98d0f78c475e8905b"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/face_sm420.json"
+hash = "b21d6604d42b74ee497f3fd89b8f451b6e96670bc9e405066e5a33dc57ceef71"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/face_smakuwa.json"
+hash = "2fee0255a9a24665da720f0f815fd768f101e894ed2edce849368b8ef28bc152"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/face_smannoying.json"
+hash = "10512bc3321f6045b344122fdca63af906998639a7b2c514a06bd2c38716f2f2"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/face_smciota.json"
+hash = "a2cddebd1da273d8b8b691c52783578bf03482ad6e7b2c0c934a651588c5bdfd"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/fumo_aya.json"
+hash = "20a15a72fe95471008b90dee4f317f58c2857a97b5ab3906af97d5e738ce5def"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/fumo_marisa.json"
+hash = "791092c3f33375f41d873a8fdf3922a6788f51e856cb9087dd2c1a170c5b2d04"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/fumo_reimu.json"
+hash = "941c5087f6e4c06b49c74c02f7bf24b1d70de09c94088afde36860f71b66b8ec"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/fumo_remilia.json"
+hash = "d6160615c7e4a6b9dc5c1a42031ec2fd9b046d6cc496795229aa0e80b6e80a13"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/fumo_yakumo.json"
+hash = "da866febbf522773c4b6547e5565c3ab786a816c8411d9f0eb590dcaf9e77f06"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/japierdole.json"
+hash = "59570d2c42ac56c9744804c79d9259f4c12819aed57c63b9cc5333690293b1ff"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/loamer.json"
+hash = "05759c3640c22bd2605d9578885cd99c7d0089068e0d9ecd61c3bca441a350e0"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/makiba.json"
+hash = "aeab836f77adf0005bfb5721c4e4eb0bd6391d04d839f47ec99214943bf00ddc"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/moai_jestemsmieje.json"
+hash = "2dbbd72d5feff753e947a9a6085d553dbe1a4df2b20bad506c1154f8d768026a"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/moai_lewymoai.json"
+hash = "0b5bb36cad7a82b0fdeb3a1e1201e052d16256537cec00ded67b5c79abb2674b"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/moai_moaiglitch.json"
+hash = "9ca0ba4a2415f102ee0541e8de9c4c363da4f2ef52541ba2f60c5b06d06c01b4"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/moai_moyoi280.json"
+hash = "f1ab9ac1bca7336d9ce609fb0b69f37f4358c62ca655d2441bc6e619b08556d8"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/moai_moyoi280u.json"
+hash = "eb9dd529dee0c27bb4686049b0b244af2b96e63e6ba80f4b6ea3a3ddc8c391e9"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/moai_prawymoai.json"
+hash = "d791f524c5221dc85135e645d364d5e628fe350690c3fd69f76b4e4157192cb7"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/moperiotz.json"
+hash = "ba399fe9454cc700123d0107980d9b01b4d86ccdbcbae305b0ff0811af8d2427"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/pattern_farinthebluesky.json"
+hash = "6414361188cd59701f05df381a2ec9e65ed7eb835d0f6c1329b91500993ff921"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/pattern_jumptrill.json"
+hash = "271b4c7011459498a49dd12a953608db97656810861443cd5b0500bb83494c77"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/posluchajcotypierdolisz.json"
+hash = "24a03ab19d1d8fe42802286000e4b52455c918844e37a12e55dcb7f38f362f4f"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/real.json"
+hash = "89ebd3b267d6b2f533aa04a190b7026d48a232bad1f0b998083c4ff680d23ca2"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/rz.json"
+hash = "c6f45f1881605a51bbfc4f0699f5eb00ee0fbc44888331c9d132e1230b429def"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/tf.json"
+hash = "6aebc77e87b307c62e04f4de764d7bb3f75e43e429a1efcb534e8f88d1e7d4a2"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/wysi.json"
+hash = "2a81e0e492610e869c2129565d1a14d616a14f5b94bda67c7c478264d53b9f0a"
+
+[[files]]
+file = "config/paxi/datapacks/osurooms/pack.mcmeta"
+hash = "fac33e200ad91b3c9471c4b6aa50c56fadd374660c6624d5f435ac71c0a638dc"
+
+[[files]]
+file = "config/paxi/datapacks/other/data/emojiful/recipe/aware.json"
+hash = "47ceface1774c4d11f377791bed330269ec9bd184590109339bfe50a45939263"
+
+[[files]]
+file = "config/paxi/datapacks/other/data/emojiful/recipe/clueless.json"
+hash = "b500cecdc4bbbe1750a4121a51142133c6a5e5df4ac9e2b60156866d107735b9"
+
+[[files]]
+file = "config/paxi/datapacks/other/data/emojiful/recipe/gkamienowanie.json"
+hash = "a1b144ccb76b43e075737fb9b646570b5251cb5f3a829ce628c4a687ae744125"
+
+[[files]]
+file = "config/paxi/datapacks/other/data/emojiful/recipe/kekw.json"
+hash = "a2c260e420bffb7e9cf6ab818393f942dc45d0e77c55b11c5c888d9dac48926a"
+
+[[files]]
+file = "config/paxi/datapacks/other/data/emojiful/recipe/now.json"
+hash = "12f6dc1ae5010559df848157895a015003d055c6a16888f40135e5d9854d3619"
+
+[[files]]
+file = "config/paxi/datapacks/other/data/emojiful/recipe/smart.json"
+hash = "fe014b757b250bf03775ed5fa4bb38aaba7a55addbb3a78b89ce6879e7e4b5dd"
+
+[[files]]
+file = "config/paxi/datapacks/other/data/emojiful/recipe/smpicardia.json"
+hash = "cac2b59e29f78417f8a018814e37bff237ca995a16b636e91475a3f55ec04317"
+
+[[files]]
+file = "config/paxi/datapacks/other/data/emojiful/recipe/smpowaga.json"
+hash = "e0f3dcfc37175cd727852cbf4d4573cb047399f2372dcc74eba2d8de9ee2c2f8"
+
+[[files]]
+file = "config/paxi/datapacks/other/data/emojiful/recipe/smusmiech.json"
+hash = "9358fe51c65584753ca2f1b353ceed14ee6d5195798dc55591db3e6fe491a4f2"
+
+[[files]]
+file = "config/paxi/datapacks/other/data/emojiful/recipe/themcarches.json"
+hash = "e8d4b20fdbddca70549e8f8308cccca2cda6e545527e71b9933fa2bf45ff0e00"
+
+[[files]]
+file = "config/paxi/datapacks/other/data/emojiful/recipe/todayiwill.json"
+hash = "7420d141368323adc91ca7b1c53adc22c2f6331b6777cef52ddf01b483f13118"
+
+[[files]]
+file = "config/paxi/datapacks/other/data/emojiful/recipe/tootroll.json"
+hash = "140bc16d5ea6d11f27ba871c85d6393490e91ccb4eee5f74d26a4f5ddf198b23"
+
+[[files]]
+file = "config/paxi/datapacks/other/data/emojiful/recipe/trolley.json"
+hash = "6f5b453fe74e7919dabbeb72093ffb2047b922121a590d7b7e26a9b39adfd334"
+
+[[files]]
+file = "config/paxi/datapacks/other/data/emojiful/recipe/trolleyzoom.json"
+hash = "d773bbab6d3d54924e65699a6b2a6ae34b9dac1910920a28deef9f1f2122b987"
+
+[[files]]
+file = "config/paxi/datapacks/other/data/emojiful/recipe/tur.json"
+hash = "bdc5eecfd6ddae6797bfe150fb3292ca9cf8f4a0176555afdf8109241a42571c"
+
+[[files]]
+file = "config/paxi/datapacks/other/pack.mcmeta"
+hash = "0d79dad21f833a7e0bdc7609df9033cc16a6e763631aa8a6a6a8c7fff91f0836"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/placebo.cfg"
@@ -1025,8 +1301,12 @@ file = "config/ponder-client.toml"
 hash = "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba"
 
 [[files]]
+file = "config/quark-common-1.toml.bak"
+hash = "1839db1092fa1e1a43c5acb890ffabf9b1e06b9cde29376f1e210546d67a443c"
+
+[[files]]
 file = "config/quark-common.toml"
-hash = "1edda516dc51ff5abae02a48958aea7bc006fac14f78b1c7f3e533dfae3c6395"
+hash = "06ee62dcb8079092d34e573bb3f7f2890de3e32213e5ce7e15a9cb5096328e29"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -1043,30 +1323,6 @@ hash = "01d1370950239d1a78d2b166652e0ad7dce25d9e89e46565edc3021bec71e206"
 [[files]]
 file = "config/resourceful-config-web.json"
 hash = "59b733cd698dfe70edf854da3637ccd49dbea386a6c1217c2cc9ecbca9c2740e"
-
-[[files]]
-file = "config/roughlyenoughitems/collapsible.json5"
-hash = "e72d79c5e0a4b0a1ee40b820e5fc97582fd3ae218f23fd692840e51e90492023"
-
-[[files]]
-file = "config/roughlyenoughitems/config.json5"
-hash = "654d700a8a4b5b40a25947f06c03b8aa0f50ff0aaee11003d5d9b5cdb36675b1"
-
-[[files]]
-file = "config/roughlyenoughitems/favorites.json5"
-hash = "589c13e9ebbb9ae1b868d73be8c4e30323dcb03efacf59d75b9d614f1b069b47"
-
-[[files]]
-file = "config/roughlyenoughitems/hints.json"
-hash = "225db0c38452e4e6351153b0c239c0deaa6661ce3fa3c58b3f599bfeb61f2d55"
-
-[[files]]
-file = "config/roughlyenoughitems/pinyin.properties"
-hash = "64f23698a095e1041288cccd0b94fcfc2f7029ae3339d2644559ac78f3ac5593"
-
-[[files]]
-file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "d5c9ca1c30d41d268d4b9379613e0d4301ca3538bbc4d609965d953499d7320f"
 
 [[files]]
 file = "config/rrls.toml"
@@ -1150,7 +1406,7 @@ hash = "bd58afad70cce348c40a649af77097301a29d0eb68dfae0df9eed1eae1be3578"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "ebbac45fbb3ca01487b85ffee9601b213b71896e6606fb297bcb0f3ac9c30ffb"
+hash = "9f9c39e24c72a70fdf811c45cbb45db3fe7f7ce01c2c2061612da6496c380326"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
@@ -1158,7 +1414,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "235f8e3ecf2cd418939147fb5296c7bfd6f49d363f789f3d2798bff105be9c4e"
+hash = "e00a43c7b690cb581e4ad93faaad5775393c0292db6b137e4c944925b8a8eb21"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1326,7 +1582,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/groupers.js"
-hash = "9a3bfa313ebeb8bf2b82dd4d5c5a294e255994e8d676f07a3a14068808ec637e"
+hash = "55df5e53aac928574e13e042e4a6bb2d5c7d8c6a8c55a3891158d6f094a91eb9"
 
 [[files]]
 file = "kubejs/client_scripts/main.js"
@@ -1404,6 +1660,11 @@ metafile = true
 [[files]]
 file = "mods/ae2-import-export-card.pw.toml"
 hash = "3cc8c2c9670a89cfa932358537347df3e2f5587c38659d434b8fba66ec4fcb32"
+metafile = true
+
+[[files]]
+file = "mods/ae2-jei-integration.pw.toml"
+hash = "491974dc6adba0e893fb755f55dfe833a1076ba49fdf9e4f92b8b9fa069ce9b5"
 metafile = true
 
 [[files]]
@@ -1597,6 +1858,11 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
+file = "mods/collapsible-groups.pw.toml"
+hash = "ff418f35af7fa47b9d104b18263de45d77aa2fd498a1c76651e5b4a995b7f260"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "a567cd22b6f35cb5f71b4aa394c01d341ce01274c9b6256cbcc6f48a450a2ba3"
 metafile = true
@@ -1742,11 +2008,6 @@ hash = "6cd0689dfe07e9fbe27a62e74a92929987fe64dd838f1680db070a7e933f204a"
 metafile = true
 
 [[files]]
-file = "mods/creeper-overhaul.pw.toml"
-hash = "cd4c4ec6ef26d2b61e0cb0bdd398e8d528b88ebf739fc0898bc8cb2f7a88debb"
-metafile = true
-
-[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "d10c6f194a20ef07b764bce9ef35bec526c5c5ff9acf84c53f9e172963869e56"
 metafile = true
@@ -1822,13 +2083,13 @@ hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
 metafile = true
 
 [[files]]
-file = "mods/enchantment-descriptions.pw.toml"
-hash = "c6d69011793e9278c65ba14423fccdbc2421f62676bad2663ba85ad9c386ae28"
+file = "mods/emojiful.pw.toml"
+hash = "db40d54d3dc0efa63fbb4783dcf45552c04ff892c9a51a671ed142f7df184941"
 metafile = true
 
 [[files]]
-file = "mods/enderman-overhaul.pw.toml"
-hash = "1045ba1bb46eb77e2fea9be04268c2c73c161b94f3bceddbd4c3dbff1c0bf555"
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "c6d69011793e9278c65ba14423fccdbc2421f62676bad2663ba85ad9c386ae28"
 metafile = true
 
 [[files]]
@@ -1927,11 +2188,6 @@ hash = "8b30d03470cc27030f42b6719cdb8975f163ed336fc8592f0277a4291bb08aec"
 metafile = true
 
 [[files]]
-file = "mods/golem-overhaul.pw.toml"
-hash = "13e3a41ddb14bb60ba1b0ad687df8cd2b6d0f801f304eb5306e1e0d2d6482468"
-metafile = true
-
-[[files]]
 file = "mods/guideme.pw.toml"
 hash = "b8aee2057378b6f054f94550684d9a3f41ded7cc47794c8b01c107c8c2115ceb"
 metafile = true
@@ -1982,6 +2238,11 @@ hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
+metafile = true
+
+[[files]]
 file = "mods/journeymap-integration.pw.toml"
 hash = "f161cd39e3619182a8606ec812634d74713d32ca30c3585bdf7d40b7bb573919"
 metafile = true
@@ -1992,6 +2253,21 @@ hash = "623fb7357556b0ff5c67c9d68a1aabe3880c5efe8bf75670e8b7c821fb66fc31"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "849e2a2399eb09bd26f662d1c2e2b8ac8f7fe9553bd7992e2a363677c36f7639"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "f68d6d20d2f1ae3edb429736a46e63fb0a7c3828d876b927431697dd289ab138"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "f61a3526d323d232fbac74dedb5d89e07f45981db1c5a705c66dbe5da7507a68"
+metafile = true
+
+[[files]]
 file = "mods/just-hammers.pw.toml"
 hash = "af4465a52c59ed914f3b924bedb844cee7867b2682a356592aafb7246fd33427"
 metafile = true
@@ -1999,6 +2275,11 @@ metafile = true
 [[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "f565820169e3cd71f18fd0b18eab2405bc400668813d04f3f3eb75b6c8924bcc"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "480364ee4530bebdb3c4538dd30458e084a061bc3c4b42fb23a2ed3de2e16302"
 metafile = true
 
 [[files]]
@@ -2117,6 +2398,11 @@ hash = "02aa4dcb8fa24cffcd2182c66683c2a476a95abf53002373f953a49737a587e3"
 metafile = true
 
 [[files]]
+file = "mods/moyai.pw.toml"
+hash = "8801eedcfc4b401f8b70bfdd3b5ef633f4c8fadd7de68144eda4fa5bfa3b01b9"
+metafile = true
+
+[[files]]
 file = "mods/mru.pw.toml"
 hash = "42805ef7e224873873d190b0363f2a53dae02530553574f29fab92e258bc0470"
 metafile = true
@@ -2187,6 +2473,11 @@ hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
@@ -2227,11 +2518,6 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "21388a8519fbba93d4663a40bb163932855213ec47f41af18c1d3a4a1e2ada93"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
 metafile = true
@@ -2244,11 +2530,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "abfad0761a7c077943106b4f1df9d17259582b970164086fcf50b11f5a933622"
 metafile = true
 
 [[files]]

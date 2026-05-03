@@ -1,0 +1,23 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"minecraft:long_regeneration"},"apotheosis:charm_enabled":true,"minecraft:damage":16}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"minecraft:long_regeneration"},"apotheosis:charm_enabled":true,"minecraft:damage":10}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"minecraft:fire_resistance"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"minecraft:long_night_vision"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"minecraft:long_water_breathing"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"minecraft:infested"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"mowziesmobs:poison_resist"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"minecraft:weakness"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"minecraft:long_weakness"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"apothic_attributes:long_resistance"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"apothic_attributes:strong_sundering"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"apothic_attributes:resistance"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"minecraft:wind_charged"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"minecraft:strong_swiftness"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"minecraft:long_regeneration"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"minecraft:regeneration"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"minecraft:poison"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"minecraft:long_poison"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"apothic_attributes:strong_haste"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"moyai:moyai"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
