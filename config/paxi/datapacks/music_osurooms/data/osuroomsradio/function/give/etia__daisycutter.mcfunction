@@ -1,0 +1,1 @@
+give @s osuroomsradio:etia__daisycutter[minecraft:jukebox_playable={song:"osuroomsradio:etia__daisycutter"}] 1

@@ -1,0 +1,1 @@
+give @s osuroomsradio:lv4_feat_iwasaki_chiaki__bol[minecraft:jukebox_playable={song:"osuroomsradio:lv4_feat_iwasaki_chiaki__bol"}] 1

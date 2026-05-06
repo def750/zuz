@@ -1,0 +1,1 @@
+give @s osuroomsradio:cocodrilo_music[minecraft:jukebox_playable={song:"osuroomsradio:cocodrilo_music"}] 1

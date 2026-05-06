@@ -1,0 +1,1 @@
+give @s osuroomsradio:roughsketch__666[minecraft:jukebox_playable={song:"osuroomsradio:roughsketch__666"}] 1

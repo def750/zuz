@@ -1,0 +1,1 @@
+give @s osuroomsradio:anubasu_anubasu__materialize_anything[minecraft:jukebox_playable={song:"osuroomsradio:anubasu_anubasu__materialize_anything"}] 1

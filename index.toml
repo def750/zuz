@@ -1093,204 +1093,520 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/bruger.json"
-hash = "6669f1e925abbe7938a2d8d9ce51794b97ac248e9b391b5b58db1b5ba9922bf0"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/curseofra.json"
-hash = "ac08cbd7f31d57ce55b96aa5f80b2e00cbd78343d38303cc3edaa3e601cfb864"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/dobra.json"
-hash = "86a5579e12f8b485fdbbb95dc9eb1a77c9c4723fb09cab9f808e480a7fee7717"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/face_archaicsus.json"
-hash = "5ac948da3758ef7afe744c97ea9189d67b9a64bca4cfaa6cb5a3102c81b84c85"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/face_chazoofjudgement.json"
-hash = "ac8b3e3097245808f8356a543806928ea60e3dd1ed4c717a80202dba314a86ab"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/face_mocnasmakuwa.json"
-hash = "f9a4cbfd10f110ee38fbd1d39a6f35ad3f02192b65ec9ab98d0f78c475e8905b"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/face_sm420.json"
-hash = "b21d6604d42b74ee497f3fd89b8f451b6e96670bc9e405066e5a33dc57ceef71"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/face_smakuwa.json"
-hash = "2fee0255a9a24665da720f0f815fd768f101e894ed2edce849368b8ef28bc152"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/face_smannoying.json"
-hash = "10512bc3321f6045b344122fdca63af906998639a7b2c514a06bd2c38716f2f2"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/face_smciota.json"
-hash = "a2cddebd1da273d8b8b691c52783578bf03482ad6e7b2c0c934a651588c5bdfd"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/fumo_aya.json"
-hash = "20a15a72fe95471008b90dee4f317f58c2857a97b5ab3906af97d5e738ce5def"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/fumo_marisa.json"
-hash = "791092c3f33375f41d873a8fdf3922a6788f51e856cb9087dd2c1a170c5b2d04"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/fumo_reimu.json"
-hash = "941c5087f6e4c06b49c74c02f7bf24b1d70de09c94088afde36860f71b66b8ec"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/fumo_remilia.json"
-hash = "d6160615c7e4a6b9dc5c1a42031ec2fd9b046d6cc496795229aa0e80b6e80a13"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/fumo_yakumo.json"
-hash = "da866febbf522773c4b6547e5565c3ab786a816c8411d9f0eb590dcaf9e77f06"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/japierdole.json"
-hash = "59570d2c42ac56c9744804c79d9259f4c12819aed57c63b9cc5333690293b1ff"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/loamer.json"
-hash = "05759c3640c22bd2605d9578885cd99c7d0089068e0d9ecd61c3bca441a350e0"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/makiba.json"
-hash = "aeab836f77adf0005bfb5721c4e4eb0bd6391d04d839f47ec99214943bf00ddc"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/moai_jestemsmieje.json"
-hash = "2dbbd72d5feff753e947a9a6085d553dbe1a4df2b20bad506c1154f8d768026a"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/moai_lewymoai.json"
-hash = "0b5bb36cad7a82b0fdeb3a1e1201e052d16256537cec00ded67b5c79abb2674b"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/moai_moaiglitch.json"
-hash = "9ca0ba4a2415f102ee0541e8de9c4c363da4f2ef52541ba2f60c5b06d06c01b4"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/moai_moyoi280.json"
-hash = "f1ab9ac1bca7336d9ce609fb0b69f37f4358c62ca655d2441bc6e619b08556d8"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/moai_moyoi280u.json"
-hash = "eb9dd529dee0c27bb4686049b0b244af2b96e63e6ba80f4b6ea3a3ddc8c391e9"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/moai_prawymoai.json"
-hash = "d791f524c5221dc85135e645d364d5e628fe350690c3fd69f76b4e4157192cb7"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/moperiotz.json"
-hash = "ba399fe9454cc700123d0107980d9b01b4d86ccdbcbae305b0ff0811af8d2427"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/pattern_farinthebluesky.json"
-hash = "6414361188cd59701f05df381a2ec9e65ed7eb835d0f6c1329b91500993ff921"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/pattern_jumptrill.json"
-hash = "271b4c7011459498a49dd12a953608db97656810861443cd5b0500bb83494c77"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/posluchajcotypierdolisz.json"
-hash = "24a03ab19d1d8fe42802286000e4b52455c918844e37a12e55dcb7f38f362f4f"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/real.json"
-hash = "89ebd3b267d6b2f533aa04a190b7026d48a232bad1f0b998083c4ff680d23ca2"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/rz.json"
-hash = "c6f45f1881605a51bbfc4f0699f5eb00ee0fbc44888331c9d132e1230b429def"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/tf.json"
-hash = "6aebc77e87b307c62e04f4de764d7bb3f75e43e429a1efcb534e8f88d1e7d4a2"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/data/emojiful/recipe/wysi.json"
-hash = "2a81e0e492610e869c2129565d1a14d616a14f5b94bda67c7c478264d53b9f0a"
-
-[[files]]
-file = "config/paxi/datapacks/osurooms/pack.mcmeta"
-hash = "fac33e200ad91b3c9471c4b6aa50c56fadd374660c6624d5f435ac71c0a638dc"
-
-[[files]]
-file = "config/paxi/datapacks/other/data/emojiful/recipe/aware.json"
+file = "config/paxi/datapacks/emojiful_other/data/emojiful/recipe/aware.json"
 hash = "47ceface1774c4d11f377791bed330269ec9bd184590109339bfe50a45939263"
 
 [[files]]
-file = "config/paxi/datapacks/other/data/emojiful/recipe/clueless.json"
+file = "config/paxi/datapacks/emojiful_other/data/emojiful/recipe/clueless.json"
 hash = "b500cecdc4bbbe1750a4121a51142133c6a5e5df4ac9e2b60156866d107735b9"
 
 [[files]]
-file = "config/paxi/datapacks/other/data/emojiful/recipe/gkamienowanie.json"
+file = "config/paxi/datapacks/emojiful_other/data/emojiful/recipe/gkamienowanie.json"
 hash = "a1b144ccb76b43e075737fb9b646570b5251cb5f3a829ce628c4a687ae744125"
 
 [[files]]
-file = "config/paxi/datapacks/other/data/emojiful/recipe/kekw.json"
+file = "config/paxi/datapacks/emojiful_other/data/emojiful/recipe/kekw.json"
 hash = "a2c260e420bffb7e9cf6ab818393f942dc45d0e77c55b11c5c888d9dac48926a"
 
 [[files]]
-file = "config/paxi/datapacks/other/data/emojiful/recipe/now.json"
+file = "config/paxi/datapacks/emojiful_other/data/emojiful/recipe/now.json"
 hash = "12f6dc1ae5010559df848157895a015003d055c6a16888f40135e5d9854d3619"
 
 [[files]]
-file = "config/paxi/datapacks/other/data/emojiful/recipe/smart.json"
+file = "config/paxi/datapacks/emojiful_other/data/emojiful/recipe/smart.json"
 hash = "fe014b757b250bf03775ed5fa4bb38aaba7a55addbb3a78b89ce6879e7e4b5dd"
 
 [[files]]
-file = "config/paxi/datapacks/other/data/emojiful/recipe/smpicardia.json"
+file = "config/paxi/datapacks/emojiful_other/data/emojiful/recipe/smpicardia.json"
 hash = "cac2b59e29f78417f8a018814e37bff237ca995a16b636e91475a3f55ec04317"
 
 [[files]]
-file = "config/paxi/datapacks/other/data/emojiful/recipe/smpowaga.json"
+file = "config/paxi/datapacks/emojiful_other/data/emojiful/recipe/smpowaga.json"
 hash = "e0f3dcfc37175cd727852cbf4d4573cb047399f2372dcc74eba2d8de9ee2c2f8"
 
 [[files]]
-file = "config/paxi/datapacks/other/data/emojiful/recipe/smusmiech.json"
+file = "config/paxi/datapacks/emojiful_other/data/emojiful/recipe/smusmiech.json"
 hash = "9358fe51c65584753ca2f1b353ceed14ee6d5195798dc55591db3e6fe491a4f2"
 
 [[files]]
-file = "config/paxi/datapacks/other/data/emojiful/recipe/themcarches.json"
+file = "config/paxi/datapacks/emojiful_other/data/emojiful/recipe/themcarches.json"
 hash = "e8d4b20fdbddca70549e8f8308cccca2cda6e545527e71b9933fa2bf45ff0e00"
 
 [[files]]
-file = "config/paxi/datapacks/other/data/emojiful/recipe/todayiwill.json"
+file = "config/paxi/datapacks/emojiful_other/data/emojiful/recipe/todayiwill.json"
 hash = "7420d141368323adc91ca7b1c53adc22c2f6331b6777cef52ddf01b483f13118"
 
 [[files]]
-file = "config/paxi/datapacks/other/data/emojiful/recipe/tootroll.json"
+file = "config/paxi/datapacks/emojiful_other/data/emojiful/recipe/tootroll.json"
 hash = "140bc16d5ea6d11f27ba871c85d6393490e91ccb4eee5f74d26a4f5ddf198b23"
 
 [[files]]
-file = "config/paxi/datapacks/other/data/emojiful/recipe/trolley.json"
+file = "config/paxi/datapacks/emojiful_other/data/emojiful/recipe/trolley.json"
 hash = "6f5b453fe74e7919dabbeb72093ffb2047b922121a590d7b7e26a9b39adfd334"
 
 [[files]]
-file = "config/paxi/datapacks/other/data/emojiful/recipe/trolleyzoom.json"
+file = "config/paxi/datapacks/emojiful_other/data/emojiful/recipe/trolleyzoom.json"
 hash = "d773bbab6d3d54924e65699a6b2a6ae34b9dac1910920a28deef9f1f2122b987"
 
 [[files]]
-file = "config/paxi/datapacks/other/data/emojiful/recipe/tur.json"
+file = "config/paxi/datapacks/emojiful_other/data/emojiful/recipe/tur.json"
 hash = "bdc5eecfd6ddae6797bfe150fb3292ca9cf8f4a0176555afdf8109241a42571c"
 
 [[files]]
-file = "config/paxi/datapacks/other/pack.mcmeta"
+file = "config/paxi/datapacks/emojiful_other/pack.mcmeta"
 hash = "0d79dad21f833a7e0bdc7609df9033cc16a6e763631aa8a6a6a8c7fff91f0836"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/minecraft/loot_table/entities/creeper.json"
+hash = "e81b3a87b28a9aaae447336a248b53cd7e1d5a7046309dbdd184e3e2ae7d2152"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/minecraft/tags/function/load.json"
+hash = "5a48f9a261afba206c8a59e26f7207338597a80fc000f240cd1aa3c4b0652747"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/give/anubasu_anubasu__materialize_anything.mcfunction"
+hash = "2baffbca8bb5c28f4b1c0835cb5834b63ef6e40be05152821fbf705cfbcd08de"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/give/camellia__blastix_riotz.mcfunction"
+hash = "f682951107583a724eca8cc85a59989eb99f3578bb8c0cdf7b16f1393deadc39"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/give/cocodrilo_music.mcfunction"
+hash = "d5be29eac161c0ea0c078ea8617a55c11fc70e0ae497f90799368123f0c219b8"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/give/cres__end_time.mcfunction"
+hash = "ed2d50307e83ca64eb1a7558d25ad7d22f9dfb84bbf7f537660ee8564c77cb1e"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/give/dj_myosuke__joe_fight_joe_fight_remix.mcfunction"
+hash = "dad30b2b52e1ae5aaab88974e18724a38600016560906fe0e4bfb6e183b24039"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/give/etia__daisycutter.mcfunction"
+hash = "b252a425c589cda00f461d0ee780e9da635f769303ff35ec544e5d537604da1c"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/give/gram__eden.mcfunction"
+hash = "d15725fb99b08070440ccacbd859ee7283287c5a65e4aa9fcd558c062004fad0"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/give/humanoid__mendes.mcfunction"
+hash = "1aa4192be999bf63ce39584f1d2068188888c924ea34eaa326b53b878cc1d667"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/give/jea_dj_sharpnel__makiba.mcfunction"
+hash = "86dcd92d7444d15b36584eba73d5effe9d4011ca8a4303de4aa265a6c872e0f4"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/give/katagiri__strong_280.mcfunction"
+hash = "64576af4771c492da6f4e9749a5da79ebd91ed094869744b4de8d9758feeb8b1"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/give/kobaryo__bookmaker.mcfunction"
+hash = "7f730290e72a2754020edb3a42b2b4af112b1b43cb71a25a46d3169bcc5d340a"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/give/laur__dangeroooous_jungle_extended.mcfunction"
+hash = "54e201a8d28f8ebf1c1d0474c840ccc77e93618328538a540762906011f3d062"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/give/lv4_feat_iwasaki_chiaki__bol.mcfunction"
+hash = "c00f1c57f5d707b423d241674d060db752bbbc38cf0377a047a635662f60815e"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/give/nekomata_master_and_camellia_w_huer__resonant.mcfunction"
+hash = "c7f34d2054b7bc03f1d6cf87d1a541cab146e56865cb1d3c8e145848e552346d"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/give/podsumowanie_pierwszego_dnia_rozgrywek_grupowych_mp4k.mcfunction"
+hash = "4b253c56d26fba2501d98f4275bfbceea77ceb0cbaf9b6e5d03e513736829095"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/give/roughsketch__666.mcfunction"
+hash = "509dccb749d5f8fad072499d3f41abf754584efcaebe9e72a2adca0e1d4ba937"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/give/saikoro__far_in_the_blue_sky.mcfunction"
+hash = "84a91fbe724c34f9e50270f00e5d185ec121e654492623b287a32eecc88bdba8"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/give/silentroom_vs_frums__aegleseeker.mcfunction"
+hash = "34513d2af870c72a8a78b2a3cee405aebb1ecdd93558d880f079f0855fde9047"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/give/typemars__triumph_and_regret.mcfunction"
+hash = "17692339c4204cb9b22025bbb1f4fb48e3b36abd48315bcdc05b6bd54d8fa11c"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/give/yooh__decoy.mcfunction"
+hash = "aadba98284d10164f71ae16e0db150f83726228caa83a0f3215584222c106e80"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/give_all_discs.mcfunction"
+hash = "e0c294b3deae6f93594aef9748769b05fa7370da19d32d886003a2c2ef55eb35"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/help.mcfunction"
+hash = "4cc22aba75d546659980e6e14abc7fc0fd4c480145ad1c23c52b53dde1b65b09"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/function/setup_load.mcfunction"
+hash = "894b6c208466d5cb54de9b537702fc4f283325cebb5c82c04aec3788663d77c3"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/jukebox_song/anubasu_anubasu__materialize_anything.json"
+hash = "ad57f2398f7a709ce391097a52a29feafed06f977b4a5c7d7a0d797945142e86"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/jukebox_song/camellia__blastix_riotz.json"
+hash = "3bbb139cb1f7c97258debbc48ec7fa05f282cec8359092c91bf9818ba8799ce0"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/jukebox_song/cocodrilo_music.json"
+hash = "3d783d6054361f68e491c11209f92f4375ea3ca43a6337374ca561968dd768d4"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/jukebox_song/cres__end_time.json"
+hash = "9f3c7db26966bb1aa50f6319c0df0d599028a32028ee114b5d1c8cbb24ca2ea7"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/jukebox_song/dj_myosuke__joe_fight_joe_fight_remix.json"
+hash = "5c7fda1d9aa6b43762dc2a7c52cdcd187568b4162237cc5499f7980b32094055"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/jukebox_song/etia__daisycutter.json"
+hash = "0803bcf0e4f1b3239969f3ab44b28d576f1707ea05836ca91ac3f5b18872c760"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/jukebox_song/gram__eden.json"
+hash = "4f0c220c3ad9046cb126eede7d5176c642a62935099e9434587b9dafb40e9a55"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/jukebox_song/humanoid__mendes.json"
+hash = "778b3ac6e1dac04aedc4a9783ff17ba6a2091254785503871dc47f83eeee9f63"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/jukebox_song/jea_dj_sharpnel__makiba.json"
+hash = "ca1c9ba75daed5fdc4fc18c250feddea67caeb4fc6c802fe2f617e219523e7b1"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/jukebox_song/katagiri__strong_280.json"
+hash = "a156aec58dcf06e1df7033b1a79a82dbc293a15b392cf90827ceccf293e5fe74"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/jukebox_song/kobaryo__bookmaker.json"
+hash = "e18e8a131e8fb2ffa56598a1a477430af2c397e12503b6ebdb6e4d4f952f898f"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/jukebox_song/laur__dangeroooous_jungle_extended.json"
+hash = "794cb6e05d8cbf0ad2d4820f62733ed028743ec41fc928048aba6c28d5d011a5"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/jukebox_song/lv4_feat_iwasaki_chiaki__bol.json"
+hash = "e0d85342f0f636841aacbb246d081adc9391822ac2c0ecefcb6d4c8d81eae5c1"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/jukebox_song/nekomata_master_and_camellia_w_huer__resonant.json"
+hash = "536a0d646765c1e6088373c41876ab24d9f693f2b3f3caf947c19f2da1366535"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/jukebox_song/podsumowanie_pierwszego_dnia_rozgrywek_grupowych_mp4k.json"
+hash = "aa733b090c31f3fb904b222d2b14d0e48843666617850585697d057b2d2a3795"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/jukebox_song/roughsketch__666.json"
+hash = "475c46dbf664615911d542ae4ed60acd8cba16f72980fdd74e14e801d39e4e97"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/jukebox_song/saikoro__far_in_the_blue_sky.json"
+hash = "5cc299d2c0e632ef8f5089c597ac95cf4c7589ae188bdf0436bf097847b9c5df"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/jukebox_song/silentroom_vs_frums__aegleseeker.json"
+hash = "2ccf689e0dc3d6efe72a530375ec6281699322d8dfd33f46f62a380589a34861"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/jukebox_song/typemars__triumph_and_regret.json"
+hash = "c7b70ac5d203978a94910604e5b9ae31129c017feeba2e0a1ead85ba48e3cc6b"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/data/osuroomsradio/jukebox_song/yooh__decoy.json"
+hash = "53c174b51c957886e5fa93d705bd987f62ff2023b3146fbd771986d76048a463"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/pack.mcmeta"
+hash = "849d7c1ffe3225851990b9ff8f4a22827f21a8f775da6d7022ada6cf60c430cb"
+
+[[files]]
+file = "config/paxi/datapacks/music_osurooms/pack.png"
+hash = "8f7070db25d8855af86fc4a2d57dfe3f08b61065821bfee1c73f46c57398aa0a"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/minecraft/atlases/blocks.json"
+hash = "61c666965652065db85848903d8cedfcd35b3ebb522971e4f990e4a060374adf"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/lang/en_us.json"
+hash = "b8f3d47fe253528a5f9cf4eadb9d501ffef19be68b596a32c9e92ab25a6f6c7d"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/models/item/anubasu_anubasu__materialize_anything.json"
+hash = "f896c5f5318a0f9770f54e45813625e6321e2789d6d142da88cc39e9c9cd9f18"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/models/item/camellia__blastix_riotz.json"
+hash = "f01dc69f122e23d6c47e6c49ca3f54aa8c2bd7a281260eca69cde46068cf1111"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/models/item/cocodrilo_music.json"
+hash = "9cf0ed0babf90bdd5ed6f68e10068ddff85eab6ac3a697d97d54d2db0bd5aed5"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/models/item/cres__end_time.json"
+hash = "ae4a42b79773ddda181eb35178172da12a69a67ad30a1d9036667e1a1d38c9b1"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/models/item/dj_myosuke__joe_fight_joe_fight_remix.json"
+hash = "434f6f617ade58dbe8c69f7fe397755678a5cf33ae16eee8691c6e1854ba4ced"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/models/item/etia__daisycutter.json"
+hash = "813181dce8b8113406e76ed27308fdce698c6b060aa38289dc30960c8c632192"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/models/item/gram__eden.json"
+hash = "d84776f640a7246c5c80d8b6ddcc09671ca8cc01df1da10a93ea2e3736f32e36"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/models/item/humanoid__mendes.json"
+hash = "a93a4ef71b72eebae4e5223c43c4e4b1c4560604edf88b56387d4194fab153ec"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/models/item/jea_dj_sharpnel__makiba.json"
+hash = "483f13471a57290ba10b72c20abec2aad148fb684ff9e902d8115487bbe799cd"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/models/item/katagiri__strong_280.json"
+hash = "850c8fc6963bd178d75a0f70f6413352ede942b19d662122a3e40ae6f9a7d3d2"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/models/item/kobaryo__bookmaker.json"
+hash = "fddaef9a95245e5260478f6a4619a83e8833b4e0d868533bb54858e06a6f9e26"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/models/item/laur__dangeroooous_jungle_extended.json"
+hash = "f89a079153871711cc8672e40dd7a011c6a2ebb8735eb48f287f6767112dd0d6"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/models/item/lv4_feat_iwasaki_chiaki__bol.json"
+hash = "139ca16c9bd49606564304fe7ea9a78d4c1947f15e88336ff88405a877716664"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/models/item/nekomata_master_and_camellia_w_huer__resonant.json"
+hash = "946382ab11bcc0c00d8c43f48004a9fffd1cf229ae8e2ff48a910670c5fca768"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/models/item/podsumowanie_pierwszego_dnia_rozgrywek_grupowych_mp4k.json"
+hash = "d66e9ceb9f8cf6cd8d7206d4cdc94c8503dbaa76b7cf7d39b2c2f68386a03d5d"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/models/item/roughsketch__666.json"
+hash = "c197675de9c6556a2a28214191a1aa6b6aa9dc6ad1dc2a79893ac7fc2bb9923f"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/models/item/saikoro__far_in_the_blue_sky.json"
+hash = "95bd534f5642930c2deb4c1ba04750a0a4be0a1d5a3cd9489ba90d15ec3cd92c"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/models/item/silentroom_vs_frums__aegleseeker.json"
+hash = "dad99b89d170a7d70f720507897fbdc1b3d62c9b41ba3031653b2d1c60318a7c"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/models/item/typemars__triumph_and_regret.json"
+hash = "51fc22266155aef8e079e1ef5325dfeb1e26644fa93459043391cd226b6d0eea"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/models/item/yooh__decoy.json"
+hash = "4ad75942bc3fc7659b978dcab222b70376e282cfae287c472b77e2b48c4c129a"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/sounds.json"
+hash = "2f50c1fc0c29559f78395203a38cbc87ec10c6c46e29e35eba9c04a12a161e4e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/sounds/records/anubasu_anubasu__materialize_anything.ogg"
+hash = "1ad8ea90e7f6aeb560986552492dccf1f37ed68c82a2769b7fe58d8043898dd5"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/sounds/records/camellia__blastix_riotz.ogg"
+hash = "3256e87f580ce1e3dc8e5a263fc64061bc3d10da6e2f10319d6513f4d9f6e9f3"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/sounds/records/cocodrilo_music.ogg"
+hash = "59c2e1c3e257ece9ec105997079d46f1d7d93722e108c349296d1717fdd42e7e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/sounds/records/cres__end_time.ogg"
+hash = "32a64b281ab5ebfda3022fafdeb745b814c537d9f0b567fe114d13ec1d7cc0cc"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/sounds/records/dj_myosuke__joe_fight_joe_fight_remix.ogg"
+hash = "30551114b8f1a8fd092a9341bcd05431c6840dd6f993a4820901c3beab2c468a"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/sounds/records/etia__daisycutter.ogg"
+hash = "8d345c3264c1721f75ae89bdf7c3b3a09b23b7f1448a920aa88282cde16cb5e5"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/sounds/records/gram__eden.ogg"
+hash = "f9ce0264c8c12e58f3da528533ecbc8bb8d36b49dd2ccacd79760456a877a75d"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/sounds/records/humanoid__mendes.ogg"
+hash = "175ae6ba7dcb309683c026015b9d5c26da12ce35a25abb71f5e5b07dde18d5b9"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/sounds/records/jea_dj_sharpnel__makiba.ogg"
+hash = "2eb6d1ad560fc3ccf635418bff0a420d5a14af3a5ccc38f1f844290b88926199"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/sounds/records/katagiri__strong_280.ogg"
+hash = "666a700a0e99bc6f78e152e16ea4593ba7ff6ed560631ef202daa9dc88eb88f3"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/sounds/records/kobaryo__bookmaker.ogg"
+hash = "02982e0044c8e4c938461b25f0198df1f46bb4ccfe94c19d176dd843d7f00a09"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/sounds/records/laur__dangeroooous_jungle_extended.ogg"
+hash = "5bcde65089201c0abb31c6f66e7884b77833f3d3206ca085481ddeaab645e46b"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/sounds/records/lv4_feat_iwasaki_chiaki__bol.ogg"
+hash = "4a533632394b8ec4c1aa783c401386677750962c7654e5661b81a7af7ab5a6bd"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/sounds/records/nekomata_master_and_camellia_w_huer__resonant.ogg"
+hash = "5fb7d5f73071c561ea429be6c55c85644da55b7a6c17614e4b8b9985edeb1f82"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/sounds/records/podsumowanie_pierwszego_dnia_rozgrywek_grupowych_mp4k.ogg"
+hash = "cce11e44e2d7c504e5d28968cead9cfef025c5154696c81e79cde485403773d8"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/sounds/records/roughsketch__666.ogg"
+hash = "14953cbb940a37c07786459c540d0bcfe7261b3b9a86f1adbde2fcc93ad5ab49"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/sounds/records/saikoro__far_in_the_blue_sky.ogg"
+hash = "37123332beedf81628a2d997d9be19b3711c4e91a7a445cdf19aa34080144e84"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/sounds/records/silentroom_vs_frums__aegleseeker.ogg"
+hash = "c03be78b0b8d8c2c4cbfaa209e3ea14ca0a95648480cb47dc14e99d957094683"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/sounds/records/typemars__triumph_and_regret.ogg"
+hash = "074613ef1141f0828f9610e835e3983a89a2d10c457225ccdea119f1d490faab"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/sounds/records/yooh__decoy.ogg"
+hash = "19ee5bf5ab1be2f4618ef4c40e0fc8446abfacd9285cd7f882aa7d1475042884"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/textures/item/anubasu_anubasu__materialize_anything.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/textures/item/camellia__blastix_riotz.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/textures/item/cocodrilo_music.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/textures/item/cres__end_time.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/textures/item/dj_myosuke__joe_fight_joe_fight_remix.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/textures/item/etia__daisycutter.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/textures/item/gram__eden.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/textures/item/humanoid__mendes.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/textures/item/jea_dj_sharpnel__makiba.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/textures/item/katagiri__strong_280.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/textures/item/kobaryo__bookmaker.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/textures/item/laur__dangeroooous_jungle_extended.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/textures/item/lv4_feat_iwasaki_chiaki__bol.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/textures/item/nekomata_master_and_camellia_w_huer__resonant.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/textures/item/podsumowanie_pierwszego_dnia_rozgrywek_grupowych_mp4k.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/textures/item/roughsketch__666.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/textures/item/saikoro__far_in_the_blue_sky.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/textures/item/silentroom_vs_frums__aegleseeker.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/textures/item/typemars__triumph_and_regret.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/assets/osuroomsradio/textures/item/yooh__decoy.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/pack.mcmeta"
+hash = "ae30e85749c24681a8d9bd3e3c3bc430aceaa1dd496d63d3d0cd6997fd4738aa"
+
+[[files]]
+file = "config/paxi/resourcepacks/music_osurooms/pack.png"
+hash = "8f7070db25d8855af86fc4a2d57dfe3f08b61065821bfee1c73f46c57398aa0a"
 
 [[files]]
 file = "config/placebo.cfg"
@@ -1581,8 +1897,168 @@ file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
-file = "kubejs/client_scripts/groupers.js"
-hash = "55df5e53aac928574e13e042e4a6bb2d5c7d8c6a8c55a3891158d6f094a91eb9"
+file = "kubejs/assets/osuroomsradio/lang/en_us.json"
+hash = "b8f3d47fe253528a5f9cf4eadb9d501ffef19be68b596a32c9e92ab25a6f6c7d"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/models/item/anubasu_anubasu__materialize_anything.json"
+hash = "f896c5f5318a0f9770f54e45813625e6321e2789d6d142da88cc39e9c9cd9f18"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/models/item/camellia__blastix_riotz.json"
+hash = "f01dc69f122e23d6c47e6c49ca3f54aa8c2bd7a281260eca69cde46068cf1111"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/models/item/cocodrilo_music.json"
+hash = "9cf0ed0babf90bdd5ed6f68e10068ddff85eab6ac3a697d97d54d2db0bd5aed5"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/models/item/cres__end_time.json"
+hash = "ae4a42b79773ddda181eb35178172da12a69a67ad30a1d9036667e1a1d38c9b1"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/models/item/dj_myosuke__joe_fight_joe_fight_remix.json"
+hash = "434f6f617ade58dbe8c69f7fe397755678a5cf33ae16eee8691c6e1854ba4ced"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/models/item/etia__daisycutter.json"
+hash = "813181dce8b8113406e76ed27308fdce698c6b060aa38289dc30960c8c632192"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/models/item/gram__eden.json"
+hash = "d84776f640a7246c5c80d8b6ddcc09671ca8cc01df1da10a93ea2e3736f32e36"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/models/item/humanoid__mendes.json"
+hash = "a93a4ef71b72eebae4e5223c43c4e4b1c4560604edf88b56387d4194fab153ec"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/models/item/jea_dj_sharpnel__makiba.json"
+hash = "483f13471a57290ba10b72c20abec2aad148fb684ff9e902d8115487bbe799cd"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/models/item/katagiri__strong_280.json"
+hash = "850c8fc6963bd178d75a0f70f6413352ede942b19d662122a3e40ae6f9a7d3d2"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/models/item/kobaryo__bookmaker.json"
+hash = "fddaef9a95245e5260478f6a4619a83e8833b4e0d868533bb54858e06a6f9e26"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/models/item/laur__dangeroooous_jungle_extended.json"
+hash = "f89a079153871711cc8672e40dd7a011c6a2ebb8735eb48f287f6767112dd0d6"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/models/item/lv4_feat_iwasaki_chiaki__bol.json"
+hash = "139ca16c9bd49606564304fe7ea9a78d4c1947f15e88336ff88405a877716664"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/models/item/nekomata_master_and_camellia_w_huer__resonant.json"
+hash = "946382ab11bcc0c00d8c43f48004a9fffd1cf229ae8e2ff48a910670c5fca768"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/models/item/podsumowanie_pierwszego_dnia_rozgrywek_grupowych_mp4k.json"
+hash = "d66e9ceb9f8cf6cd8d7206d4cdc94c8503dbaa76b7cf7d39b2c2f68386a03d5d"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/models/item/roughsketch__666.json"
+hash = "c197675de9c6556a2a28214191a1aa6b6aa9dc6ad1dc2a79893ac7fc2bb9923f"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/models/item/saikoro__far_in_the_blue_sky.json"
+hash = "95bd534f5642930c2deb4c1ba04750a0a4be0a1d5a3cd9489ba90d15ec3cd92c"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/models/item/silentroom_vs_frums__aegleseeker.json"
+hash = "dad99b89d170a7d70f720507897fbdc1b3d62c9b41ba3031653b2d1c60318a7c"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/models/item/typemars__triumph_and_regret.json"
+hash = "51fc22266155aef8e079e1ef5325dfeb1e26644fa93459043391cd226b6d0eea"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/models/item/yooh__decoy.json"
+hash = "4ad75942bc3fc7659b978dcab222b70376e282cfae287c472b77e2b48c4c129a"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/textures/item/anubasu_anubasu__materialize_anything.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/textures/item/camellia__blastix_riotz.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/textures/item/cocodrilo_music.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/textures/item/cres__end_time.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/textures/item/dj_myosuke__joe_fight_joe_fight_remix.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/textures/item/etia__daisycutter.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/textures/item/gram__eden.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/textures/item/humanoid__mendes.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/textures/item/jea_dj_sharpnel__makiba.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/textures/item/katagiri__strong_280.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/textures/item/kobaryo__bookmaker.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/textures/item/laur__dangeroooous_jungle_extended.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/textures/item/lv4_feat_iwasaki_chiaki__bol.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/textures/item/nekomata_master_and_camellia_w_huer__resonant.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/textures/item/podsumowanie_pierwszego_dnia_rozgrywek_grupowych_mp4k.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/textures/item/roughsketch__666.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/textures/item/saikoro__far_in_the_blue_sky.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/textures/item/silentroom_vs_frums__aegleseeker.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/textures/item/typemars__triumph_and_regret.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "kubejs/assets/osuroomsradio/textures/item/yooh__decoy.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
 
 [[files]]
 file = "kubejs/client_scripts/main.js"
@@ -1619,6 +2095,10 @@ hash = "4102748389935a1ab8a30b4fb47afd4a17f7d59286d84357066520f749b8d14c"
 [[files]]
 file = "kubejs/startup_scripts/main.js"
 hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+
+[[files]]
+file = "kubejs/startup_scripts/osuroomsradio_items.js"
+hash = "ab2a8ae364d4c18b29279182d504472f04950b281e18de14c5fac0f63b3aa062"
 
 [[files]]
 file = "migrate.ps1"
@@ -2170,6 +2650,11 @@ metafile = true
 [[files]]
 file = "mods/fuelgoeshere.pw.toml"
 hash = "908b1a42156f9047fa8b3d8ef078a9717655d56186e380ed937ebf3400156a9d"
+metafile = true
+
+[[files]]
+file = "mods/fumo.pw.toml"
+hash = "91e129353a33e7d73620050147b4c74e0da5f48fb16928999e5409e9e22a1977"
 metafile = true
 
 [[files]]

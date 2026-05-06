@@ -1,0 +1,1 @@
+give @s osuroomsradio:nekomata_master_and_camellia_w_huer__resonant[minecraft:jukebox_playable={song:"osuroomsradio:nekomata_master_and_camellia_w_huer__resonant"}] 1

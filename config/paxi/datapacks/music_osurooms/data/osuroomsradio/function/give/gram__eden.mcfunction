@@ -1,0 +1,1 @@
+give @s osuroomsradio:gram__eden[minecraft:jukebox_playable={song:"osuroomsradio:gram__eden"}] 1

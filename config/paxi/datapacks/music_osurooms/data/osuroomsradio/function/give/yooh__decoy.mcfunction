@@ -1,0 +1,1 @@
+give @s osuroomsradio:yooh__decoy[minecraft:jukebox_playable={song:"osuroomsradio:yooh__decoy"}] 1

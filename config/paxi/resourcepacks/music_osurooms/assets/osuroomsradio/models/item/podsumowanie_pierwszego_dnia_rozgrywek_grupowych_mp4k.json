@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "osuroomsradio:item/podsumowanie_pierwszego_dnia_rozgrywek_grupowych_mp4k"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "comparator_output": 11,
+  "description": "Yooh - Decoy",
+  "length_in_seconds": 258.6935,
+  "sound_event": {
+    "sound_id": "osuroomsradio:yooh__decoy",
+    "range": 64.0
+  }
+}

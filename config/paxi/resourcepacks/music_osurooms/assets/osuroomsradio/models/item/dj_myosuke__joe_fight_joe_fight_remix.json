@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "osuroomsradio:item/dj_myosuke__joe_fight_joe_fight_remix"
+  }
+}

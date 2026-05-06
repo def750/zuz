@@ -1,0 +1,1 @@
+give @s osuroomsradio:jea_dj_sharpnel__makiba[minecraft:jukebox_playable={song:"osuroomsradio:jea_dj_sharpnel__makiba"}] 1
