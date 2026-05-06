@@ -1,0 +1,10 @@
+{
+  "spreadFactor": 2,
+  "idBasedSalt": true,
+  "customSpreadFactors": [
+    {
+      "structure": "minecraft:mansion",
+      "factor": 2
+    }
+  ]
+}

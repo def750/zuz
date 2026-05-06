@@ -502,11 +502,15 @@ hash = "418c8e56d695c98fb37f9f8ab3b37e4e41c8ff1810cd058d931b2cd4b2464b3e"
 
 [[files]]
 file = "config/collapsiblegroups/expand_state.json"
-hash = "9bfcde35a2099972511f39493135c6c16cd119e3f5bab4927d9c70b0a7715e9a"
+hash = "f98ada6c41dd0a422c915b09e28333ece0a656ce155291250ac2c6d5ed39d79a"
 
 [[files]]
 file = "config/collapsiblegroups/groups/facades.json"
 hash = "a785799216b78a0714029ae388d3f067bfccd350ab4083a7c9021b1d02200c6a"
+
+[[files]]
+file = "config/collapsiblegroups/lang/en_us.json"
+hash = "fa89be1e421d3cf44e864e633eef8a4b49e9a37c660b3ad5720e5cb6cd390a6f"
 
 [[files]]
 file = "config/collapsiblegroups/ui_state.json"
@@ -890,7 +894,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "9ccfcdf0950c03b7f6f6b1fa01ceaf3694ead24118d244287787cfa40de5fc1c"
+hash = "de5e5cc641dcc992ea80a7ad5ceb8085e3b2bf5f573ee3ed8d62c2299657a471"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -930,7 +934,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "efeca1e45644e7f384feacff0a914e96265cef11a87b720b9bd92997087d0ba4"
+hash = "158db7100239d8b1f4722d85a66bf23e1dda5b91b14f3cd287ee1a296fdc045f"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -954,11 +958,15 @@ hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "f2b402907e8d895959dd63b26f7bf5ba98853f956779d755efac6b44fb033d46"
+hash = "b9ed8bfba845a1dd9f3501f6fa419f311c4d676f5f2cc703cfbdd8a3da120472"
+
+[[files]]
+file = "config/jei/world/local/DAN_REFORM___EXTRA___ALPHA/lookupHistory.json"
+hash = "22376ac8310d99890d1bd1911f6be681af0206443eb8bed662be27416cc1b813"
 
 [[files]]
 file = "config/jei/world/local/zdj_cia_st_p_archaica/lookupHistory.json"
-hash = "d98d7b1f5295cf00c940bea1b816dc8bf458d154f1c611d4650cfc56effafafb"
+hash = "585aeed682d2d8d55dc45c5fb5d9ee2a1e0daf08a60ea24e36c95d4a0958406d"
 
 [[files]]
 file = "config/jeresources-common.toml"
@@ -1078,7 +1086,7 @@ hash = "e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "86ce6a33cd29bb2fafcc248b4f031e4c6fed9b222502364eb832a98cc2ce9410"
+hash = "7c4450106d1048f1de32357699bd41bd66e7c663560df07fe144a13aac9992c7"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -1698,7 +1706,7 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96"
+hash = "00c7dd465e12693baeb0f9844848eb087f627d98827df51111b080af462d7d73"
 
 [[files]]
 file = "config/sodiumextras-client.toml"
@@ -1722,7 +1730,7 @@ hash = "bd58afad70cce348c40a649af77097301a29d0eb68dfae0df9eed1eae1be3578"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "9f9c39e24c72a70fdf811c45cbb45db3fe7f7ce01c2c2061612da6496c380326"
+hash = "ebbac45fbb3ca01487b85ffee9601b213b71896e6606fb297bcb0f3ac9c30ffb"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
@@ -1771,6 +1779,10 @@ hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
 [[files]]
 file = "config/spark/tmp/about.txt"
 hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
+
+[[files]]
+file = "config/sparsestructures.json5"
+hash = "6bd430e721b2fda20e9ce6d9b7c0ca26624e9ab645a52b5ff3021ab08bbc50d7"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -3094,7 +3106,7 @@ metafile = true
 
 [[files]]
 file = "mods/sparsestructures.pw.toml"
-hash = "8c71edbbb86e5d3e1c14ea6629382539d44e75b1061725df9c3abceb889a8591"
+hash = "993b4e4970e1a5ef2fe7c6712212f57a84dcf8b31d4b6863540b6395c4f9ce09"
 metafile = true
 
 [[files]]

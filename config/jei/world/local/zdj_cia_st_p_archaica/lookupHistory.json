@@ -1,5 +1,9 @@
 [
   {"version":1},
+  {"ingredient":{"id":"waterframes:remote"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"waterframes:frame"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:dark_oak_button"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"idas:music_disc_slither"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"minecraft:long_regeneration"},"apotheosis:charm_enabled":true,"minecraft:damage":16}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"minecraft:long_regeneration"},"apotheosis:charm_enabled":true,"minecraft:damage":10}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"apotheosis:potion_charm","components":{"minecraft:potion_contents":{"potion":"minecraft:fire_resistance"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
