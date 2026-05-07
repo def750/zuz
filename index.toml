@@ -98,7 +98,7 @@ hash = "c9712d9a1f7dbf2786d1b0d5f351b456e4c76528b4e9987c90cd21f48bfff78f"
 
 [[files]]
 file = "config/apotheosis/apotheosis.cfg"
-hash = "4a5017f9954f5456429dcea6cecfe8967d0f2f732789dd319227c804ccb21bb6"
+hash = "d29a380fb15231d36ade057409db78aedd93b420f9ca63afd610b0f078c7d841"
 
 [[files]]
 file = "config/apotheosis/apothic_attributes.cfg"
@@ -114,7 +114,7 @@ hash = "3a2bff8f95e923ca0568b5afa374a743deb5346544c7719eb6ac53c2f37d944d"
 
 [[files]]
 file = "config/apotheosis/name_generation.cfg"
-hash = "a6a2058d88ab1d29c39007dbcf8881da26973179844aa1f455e2c061c1473264"
+hash = "743f69cf6f4ed16aa8fe76021fe9104f7c9ca3a8325465e0a57f416c31ece6d2"
 
 [[files]]
 file = "config/apothic_spawners.cfg"
@@ -2450,6 +2450,11 @@ hash = "85048cc2c3269c990d551c6ebe5058662087ea5eb89e9da9ade81e3637654934"
 metafile = true
 
 [[files]]
+file = "mods/create-pantographs-and-wires.pw.toml"
+hash = "ed151d54bd3d7deaad8d573901d7c1250412902ff397b74daf627a68eab565b2"
+metafile = true
+
+[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "f2a31a21fa9bb92922c52d245adc54e1b09ba0474e8b3f663c8c0bc8d48bb60c"
 metafile = true
@@ -2536,7 +2541,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
-hash = "edaeca13686caeda3d9344ef2ea74f9c25fc05dfdf713a7d95cae733ed3ee2ba"
+hash = "c233f9b1eeacd658394927dd886e96db37da27ca4cea752710510f2a0c72d236"
 metafile = true
 
 [[files]]

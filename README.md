@@ -24,11 +24,9 @@ UI ma pradawne, ale musicie niedźwiedź (`bear`) ze mną. Zaufajcie mi, warto X
 
 # TODO
 
-- [ ] Nerf generacji dungeonów, są za częste
-- [ ] BALANS ARTEFAKTÓW I APOTHEOSIS
-- [ ] wyłączenie destructive rzeczy z security crafta i oguem
-- [ ] diff scaling z dungeonami i progressem w paczce
-- [ ] journey mapa poprawa
-- [ ] jakiś mod na versioning paczki z serwerem
-- [ ] image on map i video on map
-- [ ] więcej ciekawych itemów?
+- [x] Nerf generacji dungeonów, są za częste
+- [?] BALANS ARTEFAKTÓW I APOTHEOSIS
+- [x] jakiś mod na versioning paczki z serwerem
+- [x] image on map i video on map
+- [x] więcej ciekawych itemów?
+- [ ] https://modrinth.com/mod/the-roads-more-travelled tak szybko jak dodadzą port na nowakuźnia-1.21.1
