@@ -1,0 +1,14 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:enchanted_book","components":{"minecraft:stored_enchantments":{"levels":{"apothic_enchanting:chainsaw":1}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"railways:track_create_andesite_wide"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"railways:track_blackstone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"patchouli:guide_book","components":{"patchouli:book":"apotheosis:apoth_chronicle"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:enchanting_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apothic_enchanting:extraction_tome"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"osuroomsradio:lv4_feat_iwasaki_chiaki__bol"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"osuroomsradio:roughsketch__666"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"osuroomsradio:podsumowanie_pierwszego_dnia_rozgrywek_grupowych_mp4k"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"osuroomsradio:laur__dangeroooous_jungle_extended"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"osuroomsradio:cocodrilo_music"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

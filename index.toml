@@ -110,7 +110,7 @@ hash = "2150a9e5f1bf77a33843d3a9d290efad799e7aaf338b1f6d0bedfae190864aa8"
 
 [[files]]
 file = "config/apotheosis/enchantments.cfg"
-hash = "3a2bff8f95e923ca0568b5afa374a743deb5346544c7719eb6ac53c2f37d944d"
+hash = "1ce4fa2fc78b71982044ca1e6f5dbde7aa365730863526da47b7337e42ee4395"
 
 [[files]]
 file = "config/apotheosis/name_generation.cfg"
@@ -502,7 +502,7 @@ hash = "418c8e56d695c98fb37f9f8ab3b37e4e41c8ff1810cd058d931b2cd4b2464b3e"
 
 [[files]]
 file = "config/collapsiblegroups/expand_state.json"
-hash = "f98ada6c41dd0a422c915b09e28333ece0a656ce155291250ac2c6d5ed39d79a"
+hash = "b34cef80f05f7f18522fc3c58e5ec9c8f0b6be2c4fc8b0fb79f96df996d5296b"
 
 [[files]]
 file = "config/collapsiblegroups/groups/facades.json"
@@ -806,7 +806,7 @@ hash = "ceb5b3624c3269bef037b2914da8ab0d1c368abdd466156292a5d82db8803b0e"
 
 [[files]]
 file = "config/euphoria_patcher/data.json"
-hash = "1fa169acb83767c5fb43978b289705c2b546c48e492ebe1ccec1b2a023379e1d"
+hash = "ff048ab5529e1244c40cd904b0acf9740d5cc51804a216ad2f469cfd0a2b77a1"
 
 [[files]]
 file = "config/euphoria_patcher/settings.toml"
@@ -894,7 +894,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "de5e5cc641dcc992ea80a7ad5ceb8085e3b2bf5f573ee3ed8d62c2299657a471"
+hash = "ae5b2e1b757f0af19b61a030630f55cc05fdbefc8e68953fd0e5516cdb775388"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -934,7 +934,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "158db7100239d8b1f4722d85a66bf23e1dda5b91b14f3cd287ee1a296fdc045f"
+hash = "4f208801f6d6c3f7abf1601e06027258533e007ebc499a9a719f9e19981b4c9c"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -959,6 +959,10 @@ hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
 hash = "b9ed8bfba845a1dd9f3501f6fa419f311c4d676f5f2cc703cfbdd8a3da120472"
+
+[[files]]
+file = "config/jei/world/local/DAN_DEFORM___EXTRA___GAMMA/lookupHistory.json"
+hash = "fe3f1cd748428b27311478566a697f0cf9489ecaba83e385dc203267379f7dc1"
 
 [[files]]
 file = "config/jei/world/local/DAN_REFORM___EXTRA___ALPHA/lookupHistory.json"
@@ -1086,7 +1090,19 @@ hash = "e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "7c4450106d1048f1de32357699bd41bd66e7c663560df07fe144a13aac9992c7"
+hash = "dfb611c5cdbfc03293ecf176b75481cdd1768dfaf0328969f048c0c84342041d"
+
+[[files]]
+file = "config/pantographsandwires-client.toml"
+hash = "3921d41661219440a251e04cd87b7b4911de665ee65b8775759c50a3e539ce0c"
+
+[[files]]
+file = "config/pantographsandwires-common.toml"
+hash = "09eeb4673ff3d272f10a2a3bcdfe8021ed25b38bc5715b78de362a3c1f7e1fdd"
+
+[[files]]
+file = "config/pantographsandwires-server.toml"
+hash = "99b69daf8d2a8092e7f397ea625f82533e8ecf37268784d07b1efdc0aabe801e"
 
 [[files]]
 file = "config/patchouli-client.toml"
