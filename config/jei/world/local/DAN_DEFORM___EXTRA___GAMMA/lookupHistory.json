@@ -1,5 +1,7 @@
 [
   {"version":1},
+  {"ingredient":{"id":"railways:track_create_dd_rubber"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:enchanted_book","components":{"minecraft:stored_enchantments":{"levels":{"minecraft:efficiency":5}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:enchanted_book","components":{"minecraft:stored_enchantments":{"levels":{"apothic_enchanting:chainsaw":1}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"railways:track_create_andesite_wide"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"railways:track_blackstone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
