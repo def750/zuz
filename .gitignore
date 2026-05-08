@@ -25,3 +25,8 @@ config/ftbquests/quests/lang/**/*.snbt_merged
 *.locals
 *.local
 config/jei/world/*
+
+# Local Configs
+
+accessories.json5
+*client.*

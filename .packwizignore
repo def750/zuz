@@ -5,9 +5,14 @@
 # Exclude README
 
 /README.md
-_.mrpack
-_.bat
-\*.ps1
-\*.bak
+*.mrpack
+*.bat
+*.ps1
+*.bak
 *.locals
 config/jei/world/*
+
+# Local Configs
+
+accessories.json5
+*client.*
