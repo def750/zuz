@@ -24,3 +24,4 @@ config/ftbquests/quests/lang/**/*.snbt_merged
 *.bak
 *.locals
 *.local
+config/jei/world/*

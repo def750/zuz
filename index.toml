@@ -34,7 +34,7 @@ hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/accessories.json5"
-hash = "b9f6a56acdb02a286de9aa06578dac5485656fb476adc819fb3c63dd49ad0785"
+hash = "9ca14293603e6665aaa4605ec208e63f5ea139340495f8e793aa04cad8417df8"
 
 [[files]]
 file = "config/advanced_ae-client.toml"
@@ -110,7 +110,7 @@ hash = "2150a9e5f1bf77a33843d3a9d290efad799e7aaf338b1f6d0bedfae190864aa8"
 
 [[files]]
 file = "config/apotheosis/enchantments.cfg"
-hash = "1ce4fa2fc78b71982044ca1e6f5dbde7aa365730863526da47b7337e42ee4395"
+hash = "5ee3e8c5de39c54f59dfabea41c688f0a5faa9fea6b5f48a5e95067e87aaeec5"
 
 [[files]]
 file = "config/apotheosis/name_generation.cfg"
@@ -134,7 +134,7 @@ hash = "b73793e634d1a441c12ed1c3d02ec074b2f19a24766512f78ff0b9d83cf9768b"
 
 [[files]]
 file = "config/artifacts/items.toml"
-hash = "4ad2b5325a9ddd32792b0cca532ab88914ae0c85aef8f5f56db8f5e75609bc28"
+hash = "0dd60e64f758a71a1c530d1dd986fe4c690bc6cee3239f785aca30505f551d76"
 
 [[files]]
 file = "config/attributefix/apothic_attributes/armor_pierce.json"
@@ -959,18 +959,6 @@ hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
 hash = "b9ed8bfba845a1dd9f3501f6fa419f311c4d676f5f2cc703cfbdd8a3da120472"
-
-[[files]]
-file = "config/jei/world/local/DAN_DEFORM___EXTRA___GAMMA/lookupHistory.json"
-hash = "fe3f1cd748428b27311478566a697f0cf9489ecaba83e385dc203267379f7dc1"
-
-[[files]]
-file = "config/jei/world/local/DAN_REFORM___EXTRA___ALPHA/lookupHistory.json"
-hash = "22376ac8310d99890d1bd1911f6be681af0206443eb8bed662be27416cc1b813"
-
-[[files]]
-file = "config/jei/world/local/zdj_cia_st_p_archaica/lookupHistory.json"
-hash = "585aeed682d2d8d55dc45c5fb5d9ee2a1e0daf08a60ea24e36c95d4a0958406d"
 
 [[files]]
 file = "config/jeresources-common.toml"
