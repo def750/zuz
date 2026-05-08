@@ -1,0 +1,13 @@
+name = "Create More Seats"
+filename = "cms-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c46cd5c206c95551656bbd46245d724856c8064d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8045203
+project-id = 1533130

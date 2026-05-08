@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "allowJs": true,
+    "target": "ES2021",
+    "module": "CommonJS",
+    "noEmit": true,
+    "strict": false
+  },
+  "include": ["kubejs/**/*.js", ".probe/**/*.d.ts"]
+}

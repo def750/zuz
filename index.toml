@@ -86,7 +86,7 @@ hash = "2150a9e5f1bf77a33843d3a9d290efad799e7aaf338b1f6d0bedfae190864aa8"
 
 [[files]]
 file = "config/apotheosis/enchantments.cfg"
-hash = "5ee3e8c5de39c54f59dfabea41c688f0a5faa9fea6b5f48a5e95067e87aaeec5"
+hash = "6fbf714602af9c253195cba36a678ba229e194351e9a03d920646b40cac96448"
 
 [[files]]
 file = "config/apotheosis/name_generation.cfg"
@@ -1366,7 +1366,7 @@ hash = "eb7e9906d126543f03c2257ca98efa4b845d1e7479dc8b069a12b194c86debcf"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "06ee62dcb8079092d34e573bb3f7f2890de3e32213e5ce7e15a9cb5096328e29"
+hash = "8f7e13990b9d5ef3ba689d9c275297f8ebf10d93e23adb2f41d8517902a79293"
 
 [[files]]
 file = "config/railways-common.toml"
@@ -1753,6 +1753,10 @@ file = "kubejs/config/web_server.json"
 hash = "ab8c20806ac08195383894527e861397904df0461597aa759ccb497524b0c170"
 
 [[files]]
+file = "kubejs/jsconfig.json"
+hash = "6ec144604c474c7807e2447adf976121cab9265f98be83fc60c5284d46d86465"
+
+[[files]]
 file = "kubejs/server_scripts/main.js"
 hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
 
@@ -2101,6 +2105,11 @@ hash = "ff95732644994b3b955de5b0c927b3caccce9d22c19e53b95da96b887cff2525"
 metafile = true
 
 [[files]]
+file = "mods/create-more-seats.pw.toml"
+hash = "888d75607d852d14a87864586f14363336f1323fb3e514aa24eb14ebf9dcfb5a"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "85048cc2c3269c990d551c6ebe5058662087ea5eb89e9da9ade81e3637654934"
 metafile = true
@@ -2128,6 +2137,11 @@ metafile = true
 [[files]]
 file = "mods/create-track-map-(unofficial-fork).pw.toml"
 hash = "8fd7565127609d043c8aaabf69b62f32cc27ba00273870b6188f350c193aaef0"
+metafile = true
+
+[[files]]
+file = "mods/create-train-lights.pw.toml"
+hash = "d5e1e9adc533fad657b674aed4d89f68eb761de54a6f383ce5ce5fbe28f3fc33"
 metafile = true
 
 [[files]]
@@ -2293,6 +2307,11 @@ metafile = true
 [[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "f9b1fbbb47ce9eb83e43037c6bce1a49167743094feeef1e4c941e9252a1131d"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "100d56915243e9a577ec572cc118628e3bef2f1e7be015585335d307dbb5dc19"
 metafile = true
 
 [[files]]
@@ -2491,21 +2510,6 @@ hash = "1cfd095fdcd19dcfab400e8b633b0da982656e784362ac4ae7a2e9054e190d5e"
 metafile = true
 
 [[files]]
-file = "mods/macaws-bridges.pw.toml"
-hash = "0c961c709297bcc89f2f07e1eb1049e4d21a331adb020f1786e5a9a0883e037c"
-metafile = true
-
-[[files]]
-file = "mods/macaws-doors.pw.toml"
-hash = "b00f8b696187f092a939b7bbbf2ad2f249665776465bac594e2d0f4f37d36dc4"
-metafile = true
-
-[[files]]
-file = "mods/macaws-trapdoors.pw.toml"
-hash = "4a1f84dbcd179fa481a4d0e5f45da24415158d373117348d4438eaceff4f5fcc"
-metafile = true
-
-[[files]]
 file = "mods/map4image.pw.toml"
 hash = "2ea0f82c52ea17809676ba83d40e4a5beefc03fa6c23789df4074282d36fb309"
 metafile = true
@@ -2638,6 +2642,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "d9b38ba42434eb436d036b1c8add839bee003240dc85cc54ec626aac58c59070"
+metafile = true
+
+[[files]]
+file = "mods/probejs.pw.toml"
+hash = "98bbba48eddf402b09107de563d7b4370d1ae70a1a6210054cd13065072a9d97"
 metafile = true
 
 [[files]]
