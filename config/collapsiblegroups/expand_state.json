@@ -1,7 +1,11 @@
 {
   "expanded": [
     "__default_music_discs",
+    "__default_chipped_glass",
     "__default_enchanted_books",
+    "__default_chipped_yellow_stained_glass_pane",
+    "__default_chipped_yellow_stained_glass",
+    "__default_chipped_glass_pane",
     "__default_apotheosis_potion_charm"
   ]
 }

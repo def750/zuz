@@ -422,7 +422,7 @@ hash = "418c8e56d695c98fb37f9f8ab3b37e4e41c8ff1810cd058d931b2cd4b2464b3e"
 
 [[files]]
 file = "config/collapsiblegroups/expand_state.json"
-hash = "b34cef80f05f7f18522fc3c58e5ec9c8f0b6be2c4fc8b0fb79f96df996d5296b"
+hash = "fd898216759cfaaf7f02aeeb3f476150c18ed0977290566017ce913ffa860c03"
 
 [[files]]
 file = "config/collapsiblegroups/groups/facades.json"
@@ -686,7 +686,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "ae5b2e1b757f0af19b61a030630f55cc05fdbefc8e68953fd0e5516cdb775388"
+hash = "7a25fdfcf4706f350108a318204216e8fb297e6fcc870d2bf3d355e508e6c649"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -722,7 +722,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "4f208801f6d6c3f7abf1601e06027258533e007ebc499a9a719f9e19981b4c9c"
+hash = "25ce6132570c9d21687140035544e792d6a75592152d1866d09760e1c53b8917"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -826,7 +826,7 @@ hash = "e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "dfb611c5cdbfc03293ecf176b75481cdd1768dfaf0328969f048c0c84342041d"
+hash = "e272faf73f808d98b11bcc7f736d4e63ee1a3fbc096587c4e19031df8607a826"
 
 [[files]]
 file = "config/pantographsandwires-common.toml"
@@ -1406,7 +1406,7 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "00c7dd465e12693baeb0f9844848eb087f627d98827df51111b080af462d7d73"
+hash = "69ee8026007a6d9550103c001a18345ab2c11114f11456db65ab36ad4eabb8ce"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
@@ -1737,6 +1737,10 @@ file = "kubejs/assets/osuroomsradio/textures/item/yooh__decoy.png"
 hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
 
 [[files]]
+file = "kubejs/client_scripts/jsconfig.json"
+hash = "2feab6a7444cef1c4637f3d1cacd8eca49dd16a5225a34ddf23cb92ac4a9d36d"
+
+[[files]]
 file = "kubejs/client_scripts/main.js"
 hash = "291366e9d3a421cd2dcddbc88e40c97a40ab70c19a3cd6a6cc46ee8a0545f571"
 
@@ -1749,12 +1753,20 @@ file = "kubejs/config/common.json"
 hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
+file = "kubejs/config/probe-settings.json"
+hash = "adb7604e50ce7b302ce53f14f49d19fd0bed99ac6deb1b37bc715de21750ebe8"
+
+[[files]]
 file = "kubejs/config/web_server.json"
 hash = "ab8c20806ac08195383894527e861397904df0461597aa759ccb497524b0c170"
 
 [[files]]
 file = "kubejs/jsconfig.json"
 hash = "6ec144604c474c7807e2447adf976121cab9265f98be83fc60c5284d46d86465"
+
+[[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "270a8bdf050cb88f64d605418b5214f5d899b4e5774339f403bb3cf0dc661521"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
@@ -1765,8 +1777,16 @@ file = "kubejs/server_scripts/obliterate.js"
 hash = "41c295e6afa632912baabb94819811ba67bd4c2bc23f2f03fe09597ac0040c4f"
 
 [[files]]
+file = "kubejs/server_scripts/player_height.js"
+hash = "00ea30d2c00ca9aaf0cef5d9bebb826684199b2ecf0bde2cc69f15b0fc9ae2ca"
+
+[[files]]
 file = "kubejs/startup_scripts/globals.js"
 hash = "4102748389935a1ab8a30b4fb47afd4a17f7d59286d84357066520f749b8d14c"
+
+[[files]]
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "e33c37a4664a86f99b26cb143b1936056d7a8fb8545449808f7708e2e6768c18"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -1783,6 +1803,10 @@ hash = "4da567a34ee7f672c8e28034dc6672e7888c93963d410c52754f2fea24164bdf"
 [[files]]
 file = "minecraft/kubejs/server_scripts/obliterate.js"
 hash = "07894c74323ed6bae94bae18eea0afdea8e720d597953f3189328fe0e39ab918"
+
+[[files]]
+file = "minecraft/kubejs/server_scripts/player_height.JS"
+hash = "3213972a4299587115165deb358a6de42439454d6e2ed5114a1bd3d1df5b3ff9"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -2486,7 +2510,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootjs.pw.toml"
-hash = "9b32e1374a3d85ccdd4803c8932f72fbeb6357e69d895980e3f24e1974a07ca6"
+hash = "2bf24ba89ee34b9c0f698a2d3ca2c64eb7676407b56ab311fa91a8dd7a1ad4a9"
 metafile = true
 
 [[files]]

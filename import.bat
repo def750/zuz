@@ -14,6 +14,9 @@ set "PACKWIZ_DIR=C:\Users\def750\Desktop\żuż"
 REM Name of the test world used for serverconfig import
 set "WORLD_NAME=TestWorld"
 
+REM Files matching this pattern are not imported
+set "ROBOCOPY_ARGS=/E /XF *client*"
+
 REM ================================================================
 
 REM Dont touch below unless you know what you're doing
@@ -67,33 +70,33 @@ goto menu
 :import_config
 echo.
 echo Importing config...
-robocopy "%MC_DIR%\config" "%PACKWIZ_DIR%\config" /E
+robocopy "%MC_DIR%\config" "%PACKWIZ_DIR%\config" %ROBOCOPY_ARGS%
 goto refresh
 
 :import_defaultconfigs
 echo.
 echo Importing serverconfig as defaultconfigs...
-robocopy "%MC_DIR%\saves\%WORLD_NAME%\serverconfig" "%PACKWIZ_DIR%\defaultconfigs" /E
+robocopy "%MC_DIR%\saves\%WORLD_NAME%\serverconfig" "%PACKWIZ_DIR%\defaultconfigs" %ROBOCOPY_ARGS%
 goto refresh
 
 :import_kubejs
 echo.
 echo Importing kubejs...
-robocopy "%MC_DIR%\kubejs" "%PACKWIZ_DIR%\kubejs" /E
+robocopy "%MC_DIR%\kubejs" "%PACKWIZ_DIR%\kubejs" %ROBOCOPY_ARGS%
 goto refresh
 
 :import_all
 echo.
 echo Importing config...
-robocopy "%MC_DIR%\config" "%PACKWIZ_DIR%\config" /E
+robocopy "%MC_DIR%\config" "%PACKWIZ_DIR%\config" %ROBOCOPY_ARGS%
 
 echo.
 echo Importing serverconfig as defaultconfigs...
-robocopy "%MC_DIR%\saves\%WORLD_NAME%\serverconfig" "%PACKWIZ_DIR%\defaultconfigs" /E
+robocopy "%MC_DIR%\saves\%WORLD_NAME%\serverconfig" "%PACKWIZ_DIR%\defaultconfigs" %ROBOCOPY_ARGS%
 
 echo.
 echo Importing kubejs...
-robocopy "%MC_DIR%\kubejs" "%PACKWIZ_DIR%\kubejs" /E
+robocopy "%MC_DIR%\kubejs" "%PACKWIZ_DIR%\kubejs" %ROBOCOPY_ARGS%
 
 goto refresh
 
