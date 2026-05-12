@@ -14,8 +14,9 @@ set "PACKWIZ_DIR=C:\Users\def750\Desktop\żuż"
 REM Name of the test world used for serverconfig import
 set "WORLD_NAME=TestWorld"
 
-REM Files matching this pattern are not imported
+REM Files matching these patterns are not imported
 set "ROBOCOPY_ARGS=/E /XF *client*"
+set "CONFIG_ROBOCOPY_ARGS=%ROBOCOPY_ARGS% /XD worldedit\sessions worldedit\.archive-unpack"
 
 REM ================================================================
 
@@ -70,7 +71,7 @@ goto menu
 :import_config
 echo.
 echo Importing config...
-robocopy "%MC_DIR%\config" "%PACKWIZ_DIR%\config" %ROBOCOPY_ARGS%
+robocopy "%MC_DIR%\config" "%PACKWIZ_DIR%\config" %CONFIG_ROBOCOPY_ARGS%
 goto refresh
 
 :import_defaultconfigs
@@ -88,7 +89,7 @@ goto refresh
 :import_all
 echo.
 echo Importing config...
-robocopy "%MC_DIR%\config" "%PACKWIZ_DIR%\config" %ROBOCOPY_ARGS%
+robocopy "%MC_DIR%\config" "%PACKWIZ_DIR%\config" %CONFIG_ROBOCOPY_ARGS%
 
 echo.
 echo Importing serverconfig as defaultconfigs...

@@ -30,3 +30,5 @@ config/jei/world/*
 
 accessories.json5
 *client.*
+config/worldedit/sessions/*
+config/worldedit/.archive-unpack/*
