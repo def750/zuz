@@ -1,1 +1,0 @@
-give @s osuroomsradio:kobaryo__bookmaker[minecraft:jukebox_playable={song:"osuroomsradio:kobaryo__bookmaker"}] 1

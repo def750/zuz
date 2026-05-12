@@ -1,1 +1,0 @@
-give @s osuroomsradio:laur__dangeroooous_jungle_extended[minecraft:jukebox_playable={song:"osuroomsradio:laur__dangeroooous_jungle_extended"}] 1

@@ -1,1 +1,0 @@
-give @s osuroomsradio:camellia__blastix_riotz[minecraft:jukebox_playable={song:"osuroomsradio:camellia__blastix_riotz"}] 1

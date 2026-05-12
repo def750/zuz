@@ -1,0 +1,1 @@
+give @s osurooms:cocodrilo_music[minecraft:item_name='{"translate":"item.minecraft.music_disc_13"}',minecraft:lore=['{"italic":false,"text":"Cocodrilo Music"}'],minecraft:jukebox_playable={song:"osurooms:cocodrilo_music",show_in_tooltip:false}] 1

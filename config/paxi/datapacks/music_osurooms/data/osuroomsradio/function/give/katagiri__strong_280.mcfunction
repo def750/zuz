@@ -1,1 +1,0 @@
-give @s osuroomsradio:katagiri__strong_280[minecraft:jukebox_playable={song:"osuroomsradio:katagiri__strong_280"}] 1

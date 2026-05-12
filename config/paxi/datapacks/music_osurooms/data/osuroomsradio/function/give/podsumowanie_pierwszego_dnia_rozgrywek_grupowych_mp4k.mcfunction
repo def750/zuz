@@ -1,1 +1,0 @@
-give @s osuroomsradio:podsumowanie_pierwszego_dnia_rozgrywek_grupowych_mp4k[minecraft:jukebox_playable={song:"osuroomsradio:podsumowanie_pierwszego_dnia_rozgrywek_grupowych_mp4k"}] 1

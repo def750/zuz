@@ -1,0 +1,1 @@
+give @s osurooms:bookmaker[minecraft:item_name='{"translate":"item.minecraft.music_disc_13"}',minecraft:lore=['{"italic":false,"text":"Kobaryo - Bookmaker"}'],minecraft:jukebox_playable={song:"osurooms:bookmaker",show_in_tooltip:false}] 1

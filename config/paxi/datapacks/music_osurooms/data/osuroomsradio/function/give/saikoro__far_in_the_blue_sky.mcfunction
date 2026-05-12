@@ -1,1 +1,0 @@
-give @s osuroomsradio:saikoro__far_in_the_blue_sky[minecraft:jukebox_playable={song:"osuroomsradio:saikoro__far_in_the_blue_sky"}] 1

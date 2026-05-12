@@ -1,0 +1,1 @@
+give @s osurooms:aegleseeker[minecraft:item_name='{"translate":"item.minecraft.music_disc_13"}',minecraft:lore=['{"italic":false,"text":"Silentroom vs Frums - Aegleseeker"}'],minecraft:jukebox_playable={song:"osurooms:aegleseeker",show_in_tooltip:false}] 1

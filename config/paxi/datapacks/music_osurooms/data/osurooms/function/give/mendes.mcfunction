@@ -1,0 +1,1 @@
+give @s osurooms:mendes[minecraft:item_name='{"translate":"item.minecraft.music_disc_13"}',minecraft:lore=['{"italic":false,"text":"Humanoid - Mendes"}'],minecraft:jukebox_playable={song:"osurooms:mendes",show_in_tooltip:false}] 1

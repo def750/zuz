@@ -1,0 +1,1 @@
+give @s osurooms:end_time[minecraft:item_name='{"translate":"item.minecraft.music_disc_13"}',minecraft:lore=['{"italic":false,"text":"Cres. - End Time"}'],minecraft:jukebox_playable={song:"osurooms:end_time",show_in_tooltip:false}] 1

@@ -1,0 +1,1 @@
+give @s osurooms:far_in_the_blue_sky[minecraft:item_name='{"translate":"item.minecraft.music_disc_13"}',minecraft:lore=['{"italic":false,"text":"Saikoro - Far in the blue sky"}'],minecraft:jukebox_playable={song:"osurooms:far_in_the_blue_sky",show_in_tooltip:false}] 1

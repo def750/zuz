@@ -1,0 +1,1 @@
+give @s osurooms:blastix_riotz[minecraft:item_name='{"translate":"item.minecraft.music_disc_13"}',minecraft:lore=['{"italic":false,"text":"Camellia - Blastix Riotz"}'],minecraft:jukebox_playable={song:"osurooms:blastix_riotz",show_in_tooltip:false}] 1

@@ -1,0 +1,1 @@
+give @s osurooms:podsumowanie_pierwszego_dnia_rozgrywek_grupowych_mp4k[minecraft:item_name='{"translate":"item.minecraft.music_disc_13"}',minecraft:lore=['{"italic":false,"text":"Podsumowanie pierwszego dnia rozgrywek grupowych MP4K"}'],minecraft:jukebox_playable={song:"osurooms:podsumowanie_pierwszego_dnia_rozgrywek_grupowych_mp4k",show_in_tooltip:false}] 1

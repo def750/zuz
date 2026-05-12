@@ -1,0 +1,1 @@
+give @s osurooms:joe_fight_joe_fight_remix[minecraft:item_name='{"translate":"item.minecraft.music_disc_13"}',minecraft:lore=['{"italic":false,"text":"Dj Myosuke - Joe Fight (Joe Fight Remix)"}'],minecraft:jukebox_playable={song:"osurooms:joe_fight_joe_fight_remix",show_in_tooltip:false}] 1

@@ -1,1 +1,0 @@
-give @s osuroomsradio:humanoid__mendes[minecraft:jukebox_playable={song:"osuroomsradio:humanoid__mendes"}] 1

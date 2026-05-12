@@ -1,1 +1,0 @@
-give @s osuroomsradio:silentroom_vs_frums__aegleseeker[minecraft:jukebox_playable={song:"osuroomsradio:silentroom_vs_frums__aegleseeker"}] 1

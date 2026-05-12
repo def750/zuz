@@ -1,1 +1,0 @@
-give @s osuroomsradio:typemars__triumph_and_regret[minecraft:jukebox_playable={song:"osuroomsradio:typemars__triumph_and_regret"}] 1

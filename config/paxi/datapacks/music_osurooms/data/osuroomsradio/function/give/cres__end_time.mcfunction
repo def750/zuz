@@ -1,1 +1,0 @@
-give @s osuroomsradio:cres__end_time[minecraft:jukebox_playable={song:"osuroomsradio:cres__end_time"}] 1

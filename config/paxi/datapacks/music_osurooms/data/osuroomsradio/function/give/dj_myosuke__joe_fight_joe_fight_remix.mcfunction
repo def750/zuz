@@ -1,1 +1,0 @@
-give @s osuroomsradio:dj_myosuke__joe_fight_joe_fight_remix[minecraft:jukebox_playable={song:"osuroomsradio:dj_myosuke__joe_fight_joe_fight_remix"}] 1

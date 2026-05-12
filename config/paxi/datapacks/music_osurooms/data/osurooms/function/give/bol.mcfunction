@@ -1,0 +1,1 @@
+give @s osurooms:bol[minecraft:item_name='{"translate":"item.minecraft.music_disc_13"}',minecraft:lore=['{"italic":false,"text":"LV.4 feat.岩﨑千明 - B.O.L."}'],minecraft:jukebox_playable={song:"osurooms:bol",show_in_tooltip:false}] 1

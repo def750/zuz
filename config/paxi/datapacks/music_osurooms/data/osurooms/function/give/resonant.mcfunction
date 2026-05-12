@@ -1,0 +1,1 @@
+give @s osurooms:resonant[minecraft:item_name='{"translate":"item.minecraft.music_disc_13"}',minecraft:lore=['{"italic":false,"text":"Nekomata Master & Camellia w/ \"HuΣeR\" - Resonant"}'],minecraft:jukebox_playable={song:"osurooms:resonant",show_in_tooltip:false}] 1

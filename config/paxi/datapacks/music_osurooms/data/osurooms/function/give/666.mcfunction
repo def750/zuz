@@ -1,0 +1,1 @@
+give @s osurooms:666[minecraft:item_name='{"translate":"item.minecraft.music_disc_13"}',minecraft:lore=['{"italic":false,"text":"Roughsketch - 666"}'],minecraft:jukebox_playable={song:"osurooms:666",show_in_tooltip:false}] 1
