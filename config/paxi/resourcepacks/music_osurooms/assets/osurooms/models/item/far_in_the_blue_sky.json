@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "osuroomsradio:item/saikoro__far_in_the_blue_sky"
+    "layer0": "osurooms:item/far_in_the_blue_sky"
   }
 }

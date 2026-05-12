@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "osuroomsradio:item/cres__end_time"
+    "layer0": "osurooms:item/end_time"
   }
 }

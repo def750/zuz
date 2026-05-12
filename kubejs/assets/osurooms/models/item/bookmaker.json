@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "osuroomsradio:item/kobaryo__bookmaker"
+    "layer0": "osurooms:item/bookmaker"
   }
 }
